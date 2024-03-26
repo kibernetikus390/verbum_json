@@ -1,0 +1,149 @@
+{
+    "list" : [
+        {
+            "word" : "президент",
+            "desc" : "president"
+        },
+        {
+            "word" : "министр",
+            "desc" : "minister"
+        },
+        {
+            "word" : "премьер-министр",
+            "desc" : "prime minister"
+        },
+        {
+            "word" : "король",
+            "desc" : "king"
+        },
+        {
+            "word" : "королева",
+            "desc" : "queen"
+        },
+        {
+            "word" : "царь",
+            "desc" : "a tsar"
+        },
+        {
+            "word" : "царица",
+            "desc" : "tsarina"
+        },
+        {
+            "word" : "политик",
+            "desc" : "politician"
+        },
+        {
+            "word" : "правительство",
+            "desc" : "government"
+        },
+        {
+            "word" : "лидер",
+            "desc" : "leader"
+        },
+        {
+            "word" : "власть",
+            "desc" : "power; authority"
+        },
+        {
+            "word" : "партия",
+            "desc" : "party (political)"
+        },
+        {
+            "word" : "социалистический",
+            "desc" : "socialist"
+        },
+        {
+            "word" : "социалист",
+            "desc" : "socialist (m)"
+        },
+        {
+            "word" : "социалистка",
+            "desc" : "socialist (f)"
+        },
+        {
+            "word" : "консервативный",
+            "desc" : "conservative"
+        },
+        {
+            "word" : "республиканский",
+            "desc" : "republican"
+        },
+        {
+            "word" : "республиканец",
+            "desc" : "republican (m)"
+        },
+        {
+            "word" : "республиканка",
+            "desc" : "republican (f)"
+        },
+        {
+            "word" : "демократический",
+            "desc" : "democratic"
+        },
+        {
+            "word" : "демократ",
+            "desc" : "democrat (m)"
+        },
+        {
+            "word" : "демократка",
+            "desc" : "democrat (f)"
+        },
+        {
+            "word" : "коммунистический",
+            "desc" : "communist"
+        },
+        {
+            "word" : "коммунист",
+            "desc" : "communist (m)"
+        },
+        {
+            "word" : "коммунистка",
+            "desc" : "communist (f)"
+        },
+        {
+            "word" : "Республиканская партия",
+            "desc" : "the Republican Party"
+        },
+        {
+            "word" : "Демократическая партия",
+            "desc" : "the Democratic party"
+        },
+        {
+            "word" : "Дума",
+            "desc" : "Duma"
+        },
+        {
+            "word" : "великолепный",
+            "desc" : "excellent"
+        },
+        {
+            "word" : "кто был первым президентом Соединённых Штатов?",
+            "desc" : "who was the first president of the United States?"
+        },
+        {
+            "word" : "первым президентом Соединённых Штатов был ...",
+            "desc" : "the first president of the United States was ..."
+        },
+        {
+            "word" : "есть ли в России царь?",
+            "desc" : "is there a tsar in Russia?"
+        },
+        {
+            "word" : "в России нет царя",
+            "desc" : "there is no tsar in Russia"
+        },
+        {
+            "word" : "у правительства нет большой власти",
+            "desc" : "the government doesn't have a lot of power"
+        },
+        {
+            "word" : "Демократическая партия достаточно большая",
+            "desc" : "the Democratic Party is pretty big"
+        },
+        {
+            "word" : "Президент - великолепный лидер",
+            "desc" : "the President is an excellent leader"
+        }
+    ],
+    "lang" : "RUS"
+}

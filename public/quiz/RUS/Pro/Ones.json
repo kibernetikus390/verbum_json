@@ -1,0 +1,101 @@
+{
+    "Quiz": [
+        {
+            "word": "свой",
+            "desc": "Masc.-Nominative"
+        },
+        {
+            "word": "свой or своего",
+            "desc": "Masc.-Accusative"
+        },
+        {
+            "word": "своего",
+            "desc": "Masc.-Genitive"
+        },
+        {
+            "word": "своему",
+            "desc": "Masc.-Dative"
+        },
+        {
+            "word": "своим",
+            "desc": "Masc.-Instrumental"
+        },
+        {
+            "word": "своём",
+            "desc": "Masc.-Prepositional"
+        },
+        {
+            "word": "своё",
+            "desc": "Neut.-Nominative"
+        },
+        {
+            "word": "своё",
+            "desc": "Neut.-Accusative"
+        },
+        {
+            "word": "своего",
+            "desc": "Neut.-Genitive"
+        },
+        {
+            "word": "своему",
+            "desc": "Neut.-Dative"
+        },
+        {
+            "word": "своим",
+            "desc": "Neut.-Instrumental"
+        },
+        {
+            "word": "своём",
+            "desc": "Neut.-Prepositional"
+        },
+        {
+            "word": "своя",
+            "desc": "Fem.-Nominative"
+        },
+        {
+            "word": "свою",
+            "desc": "Fem.-Accusative"
+        },
+        {
+            "word": "своей",
+            "desc": "Fem.-Genitive"
+        },
+        {
+            "word": "своей",
+            "desc": "Fem.-Dative"
+        },
+        {
+            "word": "своей",
+            "desc": "Fem.-Instrumental"
+        },
+        {
+            "word": "своей",
+            "desc": "Fem.-Prepositional"
+        },
+        {
+            "word": "свои",
+            "desc": "Plural-Nominative"
+        },
+        {
+            "word": "свои or своих",
+            "desc": "Plural-Accusative"
+        },
+        {
+            "word": "своих",
+            "desc": "Plural-Genitive"
+        },
+        {
+            "word": "своим",
+            "desc": "Plural-Dative"
+        },
+        {
+            "word": "своими",
+            "desc": "Plural-Instrumental"
+        },
+        {
+            "word": "своих",
+            "desc": "Plural-Prepositional"
+        }
+    ],
+    "Hint":"RUS_P_MY"
+}

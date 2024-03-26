@@ -1,0 +1,253 @@
+{
+    "list" : [
+        {
+            "word" : "die Stadt",
+            "desc" : "the city"
+        },
+        {
+            "word" : "zeigen",
+            "desc" : "to show"
+        },
+        {
+            "word" : "komm, ich zeig' dir die Stadt!",
+            "desc" : "let me show you the city!"
+        },
+        {
+            "word" : "es gibt",
+            "desc" : "there is; there are"
+        },
+        {
+            "word" : "sehen",
+            "desc" : "to see"
+        },
+        {
+            "word" : "es gibt viel zu sehen",
+            "desc" : "there's a lot to see"
+        },
+        {
+            "word" : "die Sehenswürdigkeit",
+            "desc" : "the sight"
+        },
+        {
+            "word" : "das Zentrum",
+            "desc" : "the center"
+        },
+        {
+            "word" : "die Berliner Mauer",
+            "desc" : "the Berlin Wall"
+        },
+        {
+            "word" : "der Fernsehturm",
+            "desc" : "the TV tower"
+        },
+        {
+            "word" : "unbedingt",
+            "desc" : "by all means; absolutely"
+        },
+        {
+            "word" : "müssen",
+            "desc" : "to have to"
+        },
+        {
+            "word" : "wissen",
+            "desc" : "to know"
+        },
+        {
+            "word" : "weißt du ...?",
+            "desc" : "do you know ...?; you know ..."
+        },
+        {
+            "word" : "weißt du, wo das Zentrum ist?",
+            "desc" : "do you know where the center is?"
+        },
+        {
+            "word" : "ich will es unbedingt sehen",
+            "desc" : "I have to see it"
+        },
+        {
+            "word" : "ich weiß es leider nicht",
+            "desc" : "I don't know unfortunately"
+        },
+        {
+            "word" : "die Straße",
+            "desc" : "the street"
+        },
+        {
+            "word" : "die Kreuzung",
+            "desc" : "the crossing; the intersection"
+        },
+        {
+            "word" : "rechts",
+            "desc" : "right"
+        },
+        {
+            "word" : "links",
+            "desc" : "left"
+        },
+        {
+            "word" : "vorbei",
+            "desc" : "past; over"
+        },
+        {
+            "word" : "über",
+            "desc" : "across; over; about"
+        },
+        {
+            "word" : "du musst über die Straße gehen",
+            "desc" : "you have to walk across the street"
+        },
+        {
+            "word" : "links vorbei an der Kreuzung",
+            "desc" : "to the left at the crossing"
+        },
+        {
+            "word" : "geh rechts und dann links",
+            "desc" : "go right and then left"
+        },
+        {
+            "word" : "wiederholen",
+            "desc" : "to repeat"
+        },
+        {
+            "word" : "kannst du das bitte wiederholen?",
+            "desc" : "can you repeat that please?"
+        },
+        {
+            "word" : "geradeaus",
+            "desc" : "straight ahead"
+        },
+        {
+            "word" : "gegenüber",
+            "desc" : "opposite"
+        },
+        {
+            "word" : "zurück",
+            "desc" : "back"
+        },
+        {
+            "word" : "von hier",
+            "desc" : "from here"
+        },
+        {
+            "word" : "es ist rechts von hier",
+            "desc" : "it's to the right"
+        },
+        {
+            "word" : "weit weg",
+            "desc" : "far away"
+        },
+        {
+            "word" : "wie weit weg ist es?",
+            "desc" : "how far away is it?"
+        },
+        {
+            "word" : "zu Fuß",
+            "desc" : "on foot"
+        },
+        {
+            "word" : "erreichbar",
+            "desc" : "reachable; accessible"
+        },
+        {
+            "word" : "es ist zu Fuß erreichbar",
+            "desc" : "it's within walking distance"
+        },
+        {
+            "word" : "die Aussicht",
+            "desc" : "the view"
+        },
+        {
+            "word" : "von dort aus",
+            "desc" : "from there"
+        },
+        {
+            "word" : "die Aussicht ist super!",
+            "desc" : "the view is fantastic!"
+        },
+        {
+            "word" : "von dort aus kann man alles sehen",
+            "desc" : "you can see everything from there"
+        },
+        {
+            "word" : "lassen",
+            "desc" : "to let"
+        },
+        {
+            "word" : "lass mal ein Selfie machen!",
+            "desc" : "let's take a selfie!"
+        },
+        {
+            "word" : "geöffnet",
+            "desc" : "open"
+        },
+        {
+            "word" : "geschlossen",
+            "desc" : "closed"
+        },
+        {
+            "word" : "ist es sonntags geöffnet?",
+            "desc" : "is it open on Sundays?"
+        },
+        {
+            "word" : "der Eintritt",
+            "desc" : "the entry; the admission"
+        },
+        {
+            "word" : "kosten",
+            "desc" : "to cost"
+        },
+        {
+            "word" : "wie viel kostet der Eintritt?",
+            "desc" : "how much is the entry?"
+        },
+        {
+            "word" : "die Ermäßigung",
+            "desc" : "the discount"
+        },
+        {
+            "word" : "gibt es eine Ermäßigung?",
+            "desc" : "is there a discount?"
+        },
+        {
+            "word" : "was gibt es hier noch so?",
+            "desc" : "what else is here?"
+        },
+        {
+            "word" : "dort drüben",
+            "desc" : "over there"
+        },
+        {
+            "word" : "die Bude",
+            "desc" : "the stall; the shack; the digs (colloquial)"
+        },
+        {
+            "word" : "das Richtige",
+            "desc" : "the right thing"
+        },
+        {
+            "word" : "Lust haben",
+            "desc" : "to feel like"
+        },
+        {
+            "word" : "laufen",
+            "desc" : "to walk"
+        },
+        {
+            "word" : "ich habe Lust auf eine Currywurst",
+            "desc" : "I feel like having a currywurst"
+        },
+        {
+            "word" : "ich habe keine Lust mehr zu laufen",
+            "desc" : "I don't feel like walking anymore"
+        },
+        {
+            "word" : "dort drüben ist die beste Dönerbude der Stadt",
+            "desc" : "over there is the best kebab place in the city"
+        },
+        {
+            "word" : "das ist jetzt genau das Richtige!",
+            "desc" : "that's exactly what I need right now!"
+        }
+    ],
+    "lang" : "GERMAN"
+}

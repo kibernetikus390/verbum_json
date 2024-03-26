@@ -1,0 +1,109 @@
+{
+    "list" : [
+        {
+            "word" : "шутка",
+            "desc" : "joke"
+        },
+        {
+            "word" : "велосипед",
+            "desc" : "bike"
+        },
+        {
+            "word" : "уметь хорошо ...",
+            "desc" : "to be good at ... (doing something)"
+        },
+        {
+            "word" : "способность к ...",
+            "desc" : "ability to ... ; talent to ... (a discipline)"
+        },
+        {
+            "word" : "плохо уметь ...",
+            "desc" : "to be bad at ..."
+        },
+        {
+            "word" : "ехать на велосипеде",
+            "desc" : "to ride a bike"
+        },
+        {
+            "word" : "инструмент",
+            "desc" : "instrument"
+        },
+        {
+            "word" : "гитара",
+            "desc" : "guitar"
+        },
+        {
+            "word" : "играть на гитаре",
+            "desc" : "to play the guitar"
+        },
+        {
+            "word" : "пианино",
+            "desc" : "piano"
+        },
+        {
+            "word" : "играть на пианино",
+            "desc" : "to play the piano"
+        },
+        {
+            "word" : "краска",
+            "desc" : "paint"
+        },
+        {
+            "word" : "готовить",
+            "desc" : "to cook; to prepare"
+        },
+        {
+            "word" : "нарисовать",
+            "desc" : "to draw; to paint"
+        },
+        {
+            "word" : "слушать",
+            "desc" : "to listen"
+        },
+        {
+            "word" : "иностранный",
+            "desc" : "foreign"
+        },
+        {
+            "word" : "опасный",
+            "desc" : "dangerous"
+        },
+        {
+            "word" : "особенный",
+            "desc" : "special; particular"
+        },
+        {
+            "word" : "пример",
+            "desc" : "example"
+        },
+        {
+            "word" : "например",
+            "desc" : "for example"
+        },
+        {
+            "word" : "например, у них способности к математике",
+            "desc" : "they're for example pretty good at maths"
+        },
+        {
+            "word" : "они хорошо умеют играть на пианино",
+            "desc" : "they're good at playing the piano"
+        },
+        {
+            "word" : "она плохо умеет играть на гитаре",
+            "desc" : "she's bad at playing the guitar"
+        },
+        {
+            "word" : "у неё особенные способности к пению",
+            "desc" : "she's especially good at singing"
+        },
+        {
+            "word" : "я особенно плохо умею рассказывать анекдоты",
+            "desc" : "I'm especially bad at telling jokes"
+        },
+        {
+            "word" : "я думаю, математика сложна",
+            "desc" : "I think maths is difficult"
+        }
+    ],
+    "lang" : "RUS"
+}

@@ -1,0 +1,29 @@
+{
+    "Quiz": [
+        {
+            "word": "erō",
+            "desc": "Ind.Future.Singular-1st"
+        },
+        {
+            "word": "eris (ere)",
+            "desc": "Ind.Future.Singular-2nd"
+        },
+        {
+            "word": "erit",
+            "desc": "Ind.Future.Singular-3rd"
+        },
+        {
+            "word": "erimus",
+            "desc": "Ind.Future.Plural-1st"
+        },
+        {
+            "word": "eritis",
+            "desc": "Ind.Future.Plural-2nd"
+        },
+        {
+            "word": "erunt",
+            "desc": "Ind.Future.Plural-3rd"
+        }
+    ],
+    "Hint":"LAT_V"
+}

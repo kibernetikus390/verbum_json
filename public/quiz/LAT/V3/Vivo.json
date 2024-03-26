@@ -1,0 +1,30 @@
+{
+    "Quiz": [
+        {
+            "word": "vīvō",
+            "desc": "Singular-1st"
+        },
+        {
+            "word": "vīivs",
+            "desc": "Singular-2nd"
+        },
+        {
+            "word": "vīvit",
+            "desc": "Singular-3rd"
+        },
+        {
+            "word": "vīvimus",
+            "desc": "Plural-1st"
+        },
+        {
+            "word": "vīvitis",
+            "desc": "Plural-2nd"
+        },
+        {
+            "word": "vīvunt",
+            "desc": "Plural-3rd"
+        }
+    ],
+    "Hint":"LAT_V_3",
+    "Base":"vīv"
+}

@@ -1,0 +1,29 @@
+{
+    "Quiz": [
+        {
+            "word": "essem (forem)",
+            "desc": "Sub.Past.Singular-1st"
+        },
+        {
+            "word": "essēs (forēs)",
+            "desc": "Sub.Past.Singular-2nd"
+        },
+        {
+            "word": "esset (foret)",
+            "desc": "Sub.Past.Singular-3rd"
+        },
+        {
+            "word": "essēmus (forēmus)",
+            "desc": "Sub.Past.Plural-1st"
+        },
+        {
+            "word": "essētis (forētis)",
+            "desc": "Sub.Past.Plural-2nd"
+        },
+        {
+            "word": "essent (forent)",
+            "desc": "Sub.Past.Plural-3rd"
+        }
+    ],
+    "Hint":"LAT_V"
+}

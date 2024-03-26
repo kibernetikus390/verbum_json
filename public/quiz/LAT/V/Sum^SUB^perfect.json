@@ -1,0 +1,29 @@
+{
+    "Quiz": [
+        {
+            "word": "fuerim",
+            "desc": "Sub.Perfect.Singular-1st"
+        },
+        {
+            "word": "fuerīs",
+            "desc": "Sub.Perfect.Singular-2nd"
+        },
+        {
+            "word": "fuerit",
+            "desc": "Sub.Perfect.Singular-3rd"
+        },
+        {
+            "word": "fuerīmus",
+            "desc": "Sub.Perfect.Plural-1st"
+        },
+        {
+            "word": "fuerītis",
+            "desc": "Sub.Perfect.Plural-2nd"
+        },
+        {
+            "word": "fuerint",
+            "desc": "Sub.Perfect.Plural-3rd"
+        }
+    ],
+    "Hint":"LAT_V"
+}

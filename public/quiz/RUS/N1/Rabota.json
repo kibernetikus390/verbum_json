@@ -1,0 +1,54 @@
+{
+    "Quiz": [
+        {
+            "word": "рабо́та",
+            "desc": "Singular-Nom."
+        },
+        {
+            "word": "рабо́ту",
+            "desc": "Singular-Accusative."
+        },
+        {
+            "word": "рабо́ты",
+            "desc": "Singular-Genitive."
+        },
+        {
+            "word": "рабо́те",
+            "desc": "Singular-Dative."
+        },
+        {
+            "word": "рабо́той",
+            "desc": "Singular-Instr."
+        },
+        {
+            "word": "рабо́те",
+            "desc": "Singular-Prepos."
+        },
+        {
+            "word": "рабо́ты",
+            "desc": "Plural-Nom."
+        },
+        {
+            "word": "рабо́ты",
+            "desc": "Plural-Accusative."
+        },
+        {
+            "word": "рабо́т",
+            "desc": "Plural-Genitive."
+        },
+        {
+            "word": "рабо́там",
+            "desc": "Plural-Dative."
+        },
+        {
+            "word": "рабо́тами",
+            "desc": "Plural-Instr."
+        },
+        {
+            "word": "рабо́тах",
+            "desc": "Plural-Prepos."
+        }
+    ],
+    "Hint":"RUS_N_1",
+    "Base":"рабо́т"
+}

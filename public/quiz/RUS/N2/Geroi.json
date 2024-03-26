@@ -1,0 +1,54 @@
+{
+    "Quiz": [
+        {
+            "word": "геро́й",
+            "desc": "Singular-Nom."
+        },
+        {
+            "word": "геро́я",
+            "desc": "Singular-Accusative."
+        },
+        {
+            "word": "геро́я",
+            "desc": "Singular-Genitive."
+        },
+        {
+            "word": "геро́ю",
+            "desc": "Singular-Dative."
+        },
+        {
+            "word": "геро́ем",
+            "desc": "Singular-Instr."
+        },
+        {
+            "word": "геро́е",
+            "desc": "Singular-Prepos."
+        },
+        {
+            "word": "геро́и",
+            "desc": "Plural-Nom."
+        },
+        {
+            "word": "геро́ев",
+            "desc": "Plural-Accusative."
+        },
+        {
+            "word": "геро́ев",
+            "desc": "Plural-Genitive."
+        },
+        {
+            "word": "геро́ям",
+            "desc": "Plural-Dative."
+        },
+        {
+            "word": "геро́ями",
+            "desc": "Plural-Instr."
+        },
+        {
+            "word": "геро́ях",
+            "desc": "Plural-Prepos."
+        }
+    ],
+    "Hint":"RUS_N_2_M",
+    "Base":"геро́"
+}

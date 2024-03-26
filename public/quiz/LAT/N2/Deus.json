@@ -1,0 +1,53 @@
+{
+    "Quiz": [
+        {
+            "word": "deus",
+            "desc": "Singular-Nominative"
+        },
+        {
+            "word": "deum",
+            "desc": "Singular-Accusative"
+        },
+        {
+            "word": "deus or divē",
+            "desc": "Singular-Vocative"
+        },
+        {
+            "word": "deī",
+            "desc": "Singular-Genitive"
+        },
+        {
+            "word": "deō",
+            "desc": "Singular-Dative"
+        },
+        {
+            "word": "deō",
+            "desc": "Singular-Ablative"
+        },
+        {
+            "word": "deī or deiī or dī",
+            "desc": "Plural-Nominative"
+        },
+        {
+            "word": "deī or diī or dī",
+            "desc": "Plural-Vocative"
+        },
+        {
+            "word": "deōs",
+            "desc": "Plural-Accusative"
+        },
+        {
+            "word": "deōrum or deum",
+            "desc": "Plural-Genitive"
+        },
+        {
+            "word": "deīs or diīs or dīs",
+            "desc": "Plural-Dative"
+        },
+        {
+            "word": "deīs or diīs or dīs",
+            "desc": "Plural-Ablative"
+        }
+    ],
+    "Hint":"LAT_I_II"
+}

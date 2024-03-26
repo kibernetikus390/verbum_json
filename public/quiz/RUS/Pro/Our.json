@@ -1,0 +1,101 @@
+{
+    "Quiz": [
+        {
+            "word": "наш",
+            "desc": "Masc.-Nominative"
+        },
+        {
+            "word": "наш or на́шего",
+            "desc": "Masc.-Accusative"
+        },
+        {
+            "word": "на́шего",
+            "desc": "Masc.-Genitive"
+        },
+        {
+            "word": "на́шему",
+            "desc": "Masc.-Dative"
+        },
+        {
+            "word": "на́шим",
+            "desc": "Masc.-Instrumental"
+        },
+        {
+            "word": "на́шем",
+            "desc": "Masc.-Prepositional"
+        },
+        {
+            "word": "на́ше",
+            "desc": "Neut.-Nominative"
+        },
+        {
+            "word": "на́ше",
+            "desc": "Neut.-Accusative"
+        },
+        {
+            "word": "на́шего",
+            "desc": "Neut.-Genitive"
+        },
+        {
+            "word": "на́шему",
+            "desc": "Neut.-Dative"
+        },
+        {
+            "word": "на́шим",
+            "desc": "Neut.-Instrumental"
+        },
+        {
+            "word": "на́шем",
+            "desc": "Neut.-Prepositional"
+        },
+        {
+            "word": "на́ша",
+            "desc": "Fem.-Nominative"
+        },
+        {
+            "word": "на́шу",
+            "desc": "Fem.-Accusative"
+        },
+        {
+            "word": "на́шей",
+            "desc": "Fem.-Genitive"
+        },
+        {
+            "word": "на́шей",
+            "desc": "Fem.-Dative"
+        },
+        {
+            "word": "на́шей",
+            "desc": "Fem.-Instrumental"
+        },
+        {
+            "word": "на́шей",
+            "desc": "Fem.-Prepositional"
+        },
+        {
+            "word": "на́ши",
+            "desc": "Plural-Nominative"
+        },
+        {
+            "word": "на́ши or на́ших",
+            "desc": "Plural-Accusative"
+        },
+        {
+            "word": "на́ших",
+            "desc": "Plural-Genitive"
+        },
+        {
+            "word": "на́шим",
+            "desc": "Plural-Dative"
+        },
+        {
+            "word": "на́шими",
+            "desc": "Plural-Instrumental"
+        },
+        {
+            "word": "на́ших",
+            "desc": "Plural-Prepositional"
+        }
+    ],
+    "Hint":"RUS_P_OUR"
+}

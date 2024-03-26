@@ -1,0 +1,70 @@
+{
+    "list" : [
+        {
+            "word" : "thata dius bestia fera",
+            "alt" : "𐌸𐌰𐍄𐌰 𐌳𐌹𐌿𐍃(n) / bestia(f) / fera(f)",
+            "desc" : "the animal"
+        },
+        {
+            "word" : "thata swein porcus",
+            "alt" : "𐌸𐌰𐍄𐌰 𐍃𐍅𐌴𐌹𐌽(n) / porcus(m)",
+            "desc" : "the pig"
+        },
+        {
+            "word" : "sa hunds canis",
+            "alt" : "𐍃𐌰 𐌷𐌿𐌽𐌳𐍃(m) / canis(m,f)",
+            "desc" : "the dog"
+        },
+        {
+            "word" : "sa fugls avis",
+            "alt" : "𐍃𐌰 𐍆𐌿𐌲𐌻𐍃(m) / avis(f)",
+            "desc" : "the bird"
+        },
+        {
+            "word" : "sa fisks piscis",
+            "alt" : "𐍃𐌰 𐍆𐌹𐍃𐌺𐍃(m) / piscis(m)",
+            "desc" : "the fish"
+        },
+        {
+            "word" : "sa auhsa bos",
+            "alt" : "𐍃𐌰 𐌰𐌿𐌷𐍃𐌰(m) / bōs(m.f)",
+            "desc" : "the ox"
+        },
+        {
+            "word" : "sa wulfs lupus",
+            "alt" : "𐍃𐌰 𐍅𐌿𐌻𐍆𐍃(m) / lupus(m)",
+            "desc" : "the wolf"
+        },
+        {
+            "word" : "so biwa apis",
+            "alt" : "*𐍃𐍉 𐌱𐌹𐍅𐌰(f) / apis(f)",
+            "desc" : "the bee"
+        },
+        {
+            "word" : "so thramstei locusta",
+            "alt" : "𐍃𐍉 𐌸𐍂𐌰𐌼𐍃𐍄𐌴𐌹(f) / lō̆custa(f)",
+            "desc" : "the locust"
+        },
+        {
+            "word" : "sa waurms anguis",
+            "alt" : "𐍃𐌰 𐍅𐌰𐌿𐍂𐌼𐍃(m) / anguis(m)",
+            "desc" : "the snake, serpent"
+        },
+        {
+            "word" : "so gaits capra",
+            "alt" : "𐍃𐍉 𐌲𐌰𐌹𐍄𐍃(f) / capra(f)",
+            "desc" : "the goat"
+        },
+        {
+            "word" : "sa ara aquila",
+            "alt" : "𐍃𐌰 𐌰𐍂𐌰(m) / aquila(f)",
+            "desc" : "the eagle"
+        },
+        {
+            "word" : "sa ulbandus camēlus",
+            "alt" : "𐍃𐌰 𐌿𐌻𐌱𐌰𐌽𐌳𐌿𐍃(m) / camēlus(m)",
+            "desc" : "the camel"
+        }
+    ],
+    "lang" : "GOT"
+}

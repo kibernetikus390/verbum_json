@@ -1,0 +1,54 @@
+{
+    "Quiz": [
+        {
+            "word": "ме́сто",
+            "desc": "Singular-Nom."
+        },
+        {
+            "word": "ме́сто",
+            "desc": "Singular-Accusative."
+        },
+        {
+            "word": "ме́ста",
+            "desc": "Singular-Genitive."
+        },
+        {
+            "word": "ме́сту",
+            "desc": "Singular-Dative."
+        },
+        {
+            "word": "ме́стом",
+            "desc": "Singular-Instr."
+        },
+        {
+            "word": "ме́сте",
+            "desc": "Singular-Prepos."
+        },
+        {
+            "word": "места́",
+            "desc": "Plural-Nom."
+        },
+        {
+            "word": "места́",
+            "desc": "Plural-Accusative."
+        },
+        {
+            "word": "мест",
+            "desc": "Plural-Genitive."
+        },
+        {
+            "word": "места́м",
+            "desc": "Plural-Dative."
+        },
+        {
+            "word": "места́ми",
+            "desc": "Plural-Instr."
+        },
+        {
+            "word": "места́х",
+            "desc": "Plural-Prepos."
+        }
+    ],
+    "Hint":"RUS_N_2_N",
+    "Base":"мест"
+}

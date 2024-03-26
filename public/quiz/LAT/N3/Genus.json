@@ -1,0 +1,46 @@
+{
+    "Quiz": [
+        {
+            "word": "genus",
+            "desc": "Singular-Nom.Voc."
+        },
+        {
+            "word": "genus",
+            "desc": "Singular-Accusative"
+        },
+        {
+            "word": "generis",
+            "desc": "Singular-Genitive"
+        },
+        {
+            "word": "generī",
+            "desc": "Singular-Dative"
+        },
+        {
+            "word": "genere",
+            "desc": "Singular-Ablative"
+        },
+        {
+            "word": "genera",
+            "desc": "Plural-Nom.Voc."
+        },
+        {
+            "word": "genera",
+            "desc": "Plural-Accusative"
+        },
+        {
+            "word": "generum",
+            "desc": "Plural-Genitive"
+        },
+        {
+            "word": "generibus",
+            "desc": "Plural-Dative"
+        },
+        {
+            "word": "generibus",
+            "desc": "Plural-Ablative"
+        }
+    ],
+    "Hint":"LAT_III",
+    "Base":"gen"
+}

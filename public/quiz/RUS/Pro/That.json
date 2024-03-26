@@ -1,0 +1,101 @@
+{
+    "Quiz": [
+        {
+            "word": "тот",
+            "desc": "Masc.-Nominative"
+        },
+        {
+            "word": "тот or того́",
+            "desc": "Masc.-Accusative"
+        },
+        {
+            "word": "того́",
+            "desc": "Masc.-Genitive"
+        },
+        {
+            "word": "тому́",
+            "desc": "Masc.-Dative"
+        },
+        {
+            "word": "тем",
+            "desc": "Masc.-Instrumental"
+        },
+        {
+            "word": "том",
+            "desc": "Masc.-Prepositional"
+        },
+        {
+            "word": "то",
+            "desc": "Neut.-Nominative"
+        },
+        {
+            "word": "то",
+            "desc": "Neut.-Accusative"
+        },
+        {
+            "word": "того",
+            "desc": "Neut.-Genitive"
+        },
+        {
+            "word": "тому",
+            "desc": "Neut.-Dative"
+        },
+        {
+            "word": "тем",
+            "desc": "Neut.-Instrumental"
+        },
+        {
+            "word": "том",
+            "desc": "Neut.-Prepositional"
+        },
+        {
+            "word": "та",
+            "desc": "Fem.-Nominative"
+        },
+        {
+            "word": "ту",
+            "desc": "Fem.-Accusative"
+        },
+        {
+            "word": "той",
+            "desc": "Fem.-Genitive"
+        },
+        {
+            "word": "той",
+            "desc": "Fem.-Dative"
+        },
+        {
+            "word": "той",
+            "desc": "Fem.-Instrumental"
+        },
+        {
+            "word": "той",
+            "desc": "Fem.-Prepositional"
+        },
+        {
+            "word": "те",
+            "desc": "Plural-Nominative"
+        },
+        {
+            "word": "те or тех",
+            "desc": "Plural-Accusative"
+        },
+        {
+            "word": "тех",
+            "desc": "Plural-Genitive"
+        },
+        {
+            "word": "тем",
+            "desc": "Plural-Dative"
+        },
+        {
+            "word": "те́ми",
+            "desc": "Plural-Instrumental"
+        },
+        {
+            "word": "тех",
+            "desc": "Plural-Prepositional"
+        }
+    ],
+    "Hint":"RUS_P_THAT"
+}

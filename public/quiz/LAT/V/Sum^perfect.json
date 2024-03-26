@@ -1,0 +1,29 @@
+{
+    "Quiz": [
+        {
+            "word": "fueram",
+            "desc": "Ind.PastPerfect.Singular-1st"
+        },
+        {
+            "word": "fuerās",
+            "desc": "Ind.PastPerfect.Singular-2nd"
+        },
+        {
+            "word": "fuerat",
+            "desc": "Ind.PastPerfect.Singular-3rd"
+        },
+        {
+            "word": "fuerāmus",
+            "desc": "Ind.PastPerfect.Plural-1st"
+        },
+        {
+            "word": "fuerātis",
+            "desc": "Ind.PastPerfect.Plural-2nd"
+        },
+        {
+            "word": "fuerant",
+            "desc": "Ind.PastPerfect.Plural-3rd"
+        }
+    ],
+    "Hint":"LAT_V"
+}

@@ -1,0 +1,30 @@
+{
+    "Quiz": [
+        {
+            "word": "sciō",
+            "desc": "Singular-1st"
+        },
+        {
+            "word": "scīs",
+            "desc": "Singular-2nd"
+        },
+        {
+            "word": "scit",
+            "desc": "Singular-3rd"
+        },
+        {
+            "word": "scīmus",
+            "desc": "Plural-1st"
+        },
+        {
+            "word": "scītis",
+            "desc": "Plural-2nd"
+        },
+        {
+            "word": "sciunt",
+            "desc": "Plural-3rd"
+        }
+    ],
+    "Hint":"LAT_V_4",
+    "Base":"sci"
+}

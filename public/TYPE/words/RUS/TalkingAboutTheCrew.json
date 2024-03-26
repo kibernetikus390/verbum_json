@@ -1,0 +1,93 @@
+{
+    "list" : [
+        {
+            "word" : "переезжать",
+            "desc" : "to move (house)"
+        },
+        {
+            "word" : "продолжать",
+            "desc" : "to keep (doing); to still (do); to continue"
+        },
+        {
+            "word" : "уйти на пенсию",
+            "desc" : "to retire"
+        },
+        {
+            "word" : "увольняться",
+            "desc" : "to quit (job)"
+        },
+        {
+            "word" : "ехать кататься на лыжах",
+            "desc" : "to go skiing"
+        },
+        {
+            "word" : "за границей",
+            "desc" : "abroad"
+        },
+        {
+            "word" : "ехать за границу",
+            "desc" : "to go abroad"
+        },
+        {
+            "word" : "до сих пор",
+            "desc" : "still (to this day)"
+        },
+        {
+            "word" : "неплохой",
+            "desc" : "not bad"
+        },
+        {
+            "word" : "примерно",
+            "desc" : "about; approximately"
+        },
+        {
+            "word" : "вместе",
+            "desc" : "together"
+        },
+        {
+            "word" : "обычно",
+            "desc" : "usually"
+        },
+        {
+            "word" : "по",
+            "desc" : "on; by; along"
+        },
+        {
+            "word" : "по понедельникам",
+            "desc" : "on Mondays"
+        },
+        {
+            "word" : "через",
+            "desc" : "after; through"
+        },
+        {
+            "word" : "через два часа",
+            "desc" : "in two hours"
+        },
+        {
+            "word" : "расскажи мне о своей семье",
+            "desc" : "tell me about your family"
+        },
+        {
+            "word" : "обычно мы ездим за границу зимой",
+            "desc" : "we usually go abroad in the winter"
+        },
+        {
+            "word" : "у неё была прекрасная карьера пять лет назад",
+            "desc" : "she had a fantastic career five years ago"
+        },
+        {
+            "word" : "мои родители уйдут на пенсию примерно через три года",
+            "desc" : "my parents will retire in about three years"
+        },
+        {
+            "word" : "мои дедушка и бабушка до сих пор ездят кататься на лыжах",
+            "desc" : "my grandpa and grandma still go skiing"
+        },
+        {
+            "word" : "мы продолжаем вместе играть в бадминтон по средам",
+            "desc" : "we still play badminton together on Wednesdays"
+        },
+    ],
+    "lang" : "RUS"
+}

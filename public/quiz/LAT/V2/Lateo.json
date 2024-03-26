@@ -1,0 +1,30 @@
+{
+    "Quiz": [
+        {
+            "word": "lateō",
+            "desc": "Singular-1st"
+        },
+        {
+            "word": "latēs",
+            "desc": "Singular-2nd"
+        },
+        {
+            "word": "latet",
+            "desc": "Singular-3rd"
+        },
+        {
+            "word": "latēmus",
+            "desc": "Plural-1st"
+        },
+        {
+            "word": "latētis",
+            "desc": "Plural-2nd"
+        },
+        {
+            "word": "latent",
+            "desc": "Plural-3rd"
+        }
+    ],
+    "Hint":"LAT_V_2",
+    "Base":"late"
+}

@@ -1,0 +1,54 @@
+{
+    "Quiz": [
+        {
+            "word": "фи́льм",
+            "desc": "Singular-Nom."
+        },
+        {
+            "word": "фи́льм",
+            "desc": "Singular-Accusative."
+        },
+        {
+            "word": "фи́льма",
+            "desc": "Singular-Genitive."
+        },
+        {
+            "word": "фи́льму",
+            "desc": "Singular-Dative."
+        },
+        {
+            "word": "фи́льмом",
+            "desc": "Singular-Instr."
+        },
+        {
+            "word": "фи́льме",
+            "desc": "Singular-Prepos."
+        },
+        {
+            "word": "фи́льмы",
+            "desc": "Plural-Nom."
+        },
+        {
+            "word": "фи́льмы",
+            "desc": "Plural-Accusative."
+        },
+        {
+            "word": "фи́льмов",
+            "desc": "Plural-Genitive."
+        },
+        {
+            "word": "фи́льмам",
+            "desc": "Plural-Dative."
+        },
+        {
+            "word": "фи́льмами",
+            "desc": "Plural-Instr."
+        },
+        {
+            "word": "фи́льмах",
+            "desc": "Plural-Prepos."
+        }
+    ],
+    "Hint":"RUS_N_2_M",
+    "Base":"фи́льм"
+}

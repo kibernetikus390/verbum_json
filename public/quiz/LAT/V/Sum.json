@@ -1,0 +1,29 @@
+{
+    "Quiz": [
+        {
+            "word": "sum",
+            "desc": "Singular-1st"
+        },
+        {
+            "word": "es",
+            "desc": "Singular-2nd"
+        },
+        {
+            "word": "est",
+            "desc": "Singular-3rd"
+        },
+        {
+            "word": "sumus",
+            "desc": "Plural-1st"
+        },
+        {
+            "word": "estis",
+            "desc": "Plural-2nd"
+        },
+        {
+            "word": "sunt",
+            "desc": "Plural-3rd"
+        }
+    ],
+    "Hint":"LAT_V"
+}

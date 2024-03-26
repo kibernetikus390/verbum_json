@@ -1,0 +1,221 @@
+{
+    "Quiz": [
+        {
+            "word": "я",
+            "desc": "Singular-1st-Nom."
+        },
+        {
+            "word": "меня́",
+            "desc": "Singular-1st-Acc."
+        },
+        {
+            "word": "меня́",
+            "desc": "Singular-1st-Gen."
+        },
+        {
+            "word": "мне",
+            "desc": "Singular-1st-Dat."
+        },
+        {
+            "word": "мной or (мно́ю)",
+            "desc": "Singular-1st-Inst."
+        },
+        {
+            "word": "мне",
+            "desc": "Singular-1st-Pre."
+        },
+        {
+            "word": "ты",
+            "desc": "Singular-2nd-Nom."
+        },
+        {
+            "word": "тебя́",
+            "desc": "Singular-2nd-Acc."
+        },
+        {
+            "word": "тебя́",
+            "desc": "Singular-2nd-Gen."
+        },
+        {
+            "word": "тебе́",
+            "desc": "Singular-2nd-Dat."
+        },
+        {
+            "word": "тобо́й or (тоб́ою)",
+            "desc": "Singular-2nd-Inst."
+        },
+        {
+            "word": "тебе́",
+            "desc": "Singular-2nd-Pre."
+        },
+        {
+            "word": "оно́",
+            "desc": "Singular-3rd-Neut.-Nom."
+        },
+        {
+            "word": "(н)его́",
+            "desc": "Singular-3rd-Neut.-Acc."
+        },
+        {
+            "word": "(н)его́",
+            "desc": "Singular-3rd-Neut.-Gen."
+        },
+        {
+            "word": "(н)ему́",
+            "desc": "Singular-3rd-Neut.-Dat."
+        },
+        {
+            "word": "(н)им",
+            "desc": "Singular-3rd-Neut.-Inst."
+        },
+        {
+            "word": "нём",
+            "desc": "Singular-3rd-Neut.-Pre."
+        },
+        {
+            "word": "он",
+            "desc": "Singular-3rd-Masc.-Nom."
+        },
+        {
+            "word": "(н)его́",
+            "desc": "Singular-3rd-Masc.-Acc."
+        },
+        {
+            "word": "(н)его́",
+            "desc": "Singular-3rd-Masc.-Gen."
+        },
+        {
+            "word": "(н)ему́",
+            "desc": "Singular-3rd-Masc.-Dat."
+        },
+        {
+            "word": "(н)им",
+            "desc": "Singular-3rd-Masc.-Inst."
+        },
+        {
+            "word": "нём",
+            "desc": "Singular-3rd-Masc.-Pre."
+        },
+        {
+            "word": "она́",
+            "desc": "Singular-3rd-Fem.-Nom."
+        },
+        {
+            "word": "(н)её",
+            "desc": "Singular-3rd-Fem.-Acc."
+        },
+        {
+            "word": "(н)её",
+            "desc": "Singular-3rd-Fem.-Gen."
+        },
+        {
+            "word": "(н)ей",
+            "desc": "Singular-3rd-Fem.-Dat."
+        },
+        {
+            "word": "(н)ей or (н)ею",
+            "desc": "Singular-3rd-Fem.-Inst."
+        },
+        {
+            "word": "ней",
+            "desc": "Singular-3rd-Fem.-Pre."
+        },
+        {
+            "word": "мы",
+            "desc": "Plural-1st-Nom."
+        },
+        {
+            "word": "нас",
+            "desc": "Plural-1st-Acc."
+        },
+        {
+            "word": "нас",
+            "desc": "Plural-1st-Gen."
+        },
+        {
+            "word": "нам",
+            "desc": "Plural-1st-Dat."
+        },
+        {
+            "word": "на́ми",
+            "desc": "Plural-1st-Inst."
+        },
+        {
+            "word": "нас",
+            "desc": "Plural-1st-Pre."
+        },
+        {
+            "word": "вы",
+            "desc": "Plural-2st-Nom."
+        },
+        {
+            "word": "вас",
+            "desc": "Plural-2st-Acc."
+        },
+        {
+            "word": "вас",
+            "desc": "Plural-2st-Gen."
+        },
+        {
+            "word": "вам",
+            "desc": "Plural-2st-Dat."
+        },
+        {
+            "word": "ва́ми",
+            "desc": "Plural-2st-Inst."
+        },
+        {
+            "word": "вас",
+            "desc": "Plural-2st-Pre."
+        },
+        {
+            "word": "они́",
+            "desc": "Plural-3st-Nom."
+        },
+        {
+            "word": "(н)их",
+            "desc": "Plural-3st-Acc."
+        },
+        {
+            "word": "(н)их",
+            "desc": "Plural-3st-Gen."
+        },
+        {
+            "word": "(н)им",
+            "desc": "Plural-3st-Dat."
+        },
+        {
+            "word": "(н)и́ми",
+            "desc": "Plural-3st-Inst."
+        },
+        {
+            "word": "них",
+            "desc": "Plural-3st-Pre."
+        },
+        {
+            "word": "сам",
+            "desc": "Reflexive-Nom."
+        },
+        {
+            "word": "себя́",
+            "desc": "Reflexive-Acc."
+        },
+        {
+            "word": "себя́",
+            "desc": "Reflexive-Gen."
+        },
+        {
+            "word": "себе",
+            "desc": "Reflexive-Dat."
+        },
+        {
+            "word": "собо́й or (соб́ою)",
+            "desc": "Reflexive-Inst."
+        },
+        {
+            "word": "себе́",
+            "desc": "Reflexive-Pre."
+        }
+    ],
+    "Hint":"RUS_P_P"
+}

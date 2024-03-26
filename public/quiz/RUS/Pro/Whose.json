@@ -1,0 +1,101 @@
+{
+    "Quiz": [
+        {
+            "word": "чей",
+            "desc": "Masc.-Nominative"
+        },
+        {
+            "word": "чей or чьего́",
+            "desc": "Masc.-Accusative"
+        },
+        {
+            "word": "чьего́",
+            "desc": "Masc.-Genitive"
+        },
+        {
+            "word": "чьему́",
+            "desc": "Masc.-Dative"
+        },
+        {
+            "word": "чьим",
+            "desc": "Masc.-Instrumental"
+        },
+        {
+            "word": "чьём",
+            "desc": "Masc.-Prepositional"
+        },
+        {
+            "word": "чьё",
+            "desc": "Neut.-Nominative"
+        },
+        {
+            "word": "чьё",
+            "desc": "Neut.-Accusative"
+        },
+        {
+            "word": "чьего́",
+            "desc": "Neut.-Genitive"
+        },
+        {
+            "word": "чьему́",
+            "desc": "Neut.-Dative"
+        },
+        {
+            "word": "чьим",
+            "desc": "Neut.-Instrumental"
+        },
+        {
+            "word": "чьём",
+            "desc": "Neut.-Prepositional"
+        },
+        {
+            "word": "чья",
+            "desc": "Fem.-Nominative"
+        },
+        {
+            "word": "чью",
+            "desc": "Fem.-Accusative"
+        },
+        {
+            "word": "чьей",
+            "desc": "Fem.-Genitive"
+        },
+        {
+            "word": "чьей",
+            "desc": "Fem.-Dative"
+        },
+        {
+            "word": "чьей",
+            "desc": "Fem.-Instrumental"
+        },
+        {
+            "word": "чьей",
+            "desc": "Fem.-Prepositional"
+        },
+        {
+            "word": "чьи",
+            "desc": "Plural-Nominative"
+        },
+        {
+            "word": "чьи or чьих",
+            "desc": "Plural-Accusative"
+        },
+        {
+            "word": "чьих",
+            "desc": "Plural-Genitive"
+        },
+        {
+            "word": "чьим",
+            "desc": "Plural-Dative"
+        },
+        {
+            "word": "чьи́ми",
+            "desc": "Plural-Instrumental"
+        },
+        {
+            "word": "чьих",
+            "desc": "Plural-Prepositional"
+        }
+    ],
+    "Hint":"RUS_P_WHOSE"
+}

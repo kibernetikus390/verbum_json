@@ -1,0 +1,54 @@
+{
+    "Quiz": [
+        {
+            "word": "мо́ре",
+            "desc": "Singular-Nom."
+        },
+        {
+            "word": "мо́ре",
+            "desc": "Singular-Accusative."
+        },
+        {
+            "word": "мо́ря",
+            "desc": "Singular-Genitive."
+        },
+        {
+            "word": "мо́рю",
+            "desc": "Singular-Dative."
+        },
+        {
+            "word": "мо́рем",
+            "desc": "Singular-Instr."
+        },
+        {
+            "word": "мо́ре",
+            "desc": "Singular-Prepos."
+        },
+        {
+            "word": "моря́",
+            "desc": "Plural-Nom."
+        },
+        {
+            "word": "моря́",
+            "desc": "Plural-Accusative."
+        },
+        {
+            "word": "море́й",
+            "desc": "Plural-Genitive."
+        },
+        {
+            "word": "моря́м",
+            "desc": "Plural-Dative."
+        },
+        {
+            "word": "моря́ми",
+            "desc": "Plural-Instr."
+        },
+        {
+            "word": "моря́х",
+            "desc": "Plural-Prepos."
+        }
+    ],
+    "Hint":"RUS_N_2_N",
+    "Base":"мо́р"
+}

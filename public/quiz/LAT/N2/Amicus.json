@@ -1,0 +1,54 @@
+{
+    "Quiz": [
+        {
+            "word": "amīcus",
+            "desc": "Singular-Nominative"
+        },
+        {
+            "word": "amīce",
+            "desc": "Singular-Vocative"
+        },
+        {
+            "word": "amīcum",
+            "desc": "Singular-Accusative"
+        },
+        {
+            "word": "amīcī",
+            "desc": "Singular-Genitive"
+        },
+        {
+            "word": "amīcō",
+            "desc": "Singular-Dative"
+        },
+        {
+            "word": "amīcō",
+            "desc": "Singular-Ablative"
+        },
+        {
+            "word": "amīcī",
+            "desc": "Plural-Nominative"
+        },
+        {
+            "word": "amīcī",
+            "desc": "Plural-Vocative"
+        },
+        {
+            "word": "amīcōs",
+            "desc": "Plural-Accusative"
+        },
+        {
+            "word": "amīcōrum",
+            "desc": "Plural-Genitive"
+        },
+        {
+            "word": "amīcīs",
+            "desc": "Plural-Dative"
+        },
+        {
+            "word": "amīcīs",
+            "desc": "Plural-Ablative"
+        }
+    ],
+    "Hint":"LAT_I_II",
+    "Base":"amīc"
+}

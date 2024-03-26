@@ -1,0 +1,93 @@
+{
+    "list" : [
+        {
+            "word" : "фотография",
+            "desc" : "photo"
+        },
+        {
+            "word" : "картина",
+            "desc" : "picture; image"
+        },
+        {
+            "word" : "видео",
+            "desc" : "video"
+        },
+        {
+            "word" : "сувенир",
+            "desc" : "souvenir"
+        },
+        {
+            "word" : "деревня",
+            "desc" : "village"
+        },
+        {
+            "word" : "остров",
+            "desc" : "island"
+        },
+        {
+            "word" : "буфет",
+            "desc" : "buffet"
+        },
+        {
+            "word" : "услышать",
+            "desc" : "to hear"
+        },
+        {
+            "word" : "показывать",
+            "desc" : "to show"
+        },
+        {
+            "word" : "не нужно, пожалуйста, ...",
+            "desc" : "please don't ..."
+        },
+        {
+            "word" : "удалённый",
+            "desc" : "remote (far away)"
+        },
+        {
+            "word" : "труднодоступный",
+            "desc" : "remote (difficult to get to)"
+        },
+        {
+            "word" : "невероятный",
+            "desc" : "incredible; unbelievable"
+        },
+        {
+            "word" : "опять",
+            "desc" : "again"
+        },
+        {
+            "word" : "эти",
+            "desc" : "these"
+        },
+        {
+            "word" : "те",
+            "desc" : "those"
+        },
+        {
+            "word" : "ребята, хотите посмотреть наши фотографии?",
+            "desc" : "guys, do you want to see our photos?"
+        },
+        {
+            "word" : "это моя фотография",
+            "desc" : "this is a photo of me"
+        },
+        {
+            "word" : "мы ездили в удалённую деревню",
+            "desc" : "we went to a remote village"
+        },
+        {
+            "word" : "я хочу опять услышать ту историю",
+            "desc" : "I want to hear that story again"
+        },
+        {
+            "word" : "покажи нам опять то видео",
+            "desc" : "show us that video again"
+        },
+        {
+            "word" : "не нужно, пожалуйста, опять показывать нам те фотографии",
+            "desc" : "please don't show us those pictures again"
+        }
+    ],
+    "lang" : "RUS"
+}

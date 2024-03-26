@@ -1,0 +1,46 @@
+{
+    "Quiz": [
+        {
+            "word": "verbum",
+            "desc": "Singular-Nom.Voc."
+        },
+        {
+            "word": "verbum",
+            "desc": "Singular-Accusative"
+        },
+        {
+            "word": "verbī",
+            "desc": "Singular-Genitive"
+        },
+        {
+            "word": "verbō",
+            "desc": "Singular-Dative"
+        },
+        {
+            "word": "verbō",
+            "desc": "Singular-Ablative"
+        },
+        {
+            "word": "verba",
+            "desc": "Plural-Nom.Voc."
+        },
+        {
+            "word": "verba",
+            "desc": "Plural-Accusative"
+        },
+        {
+            "word": "verbōrum",
+            "desc": "Plural-Genitive"
+        },
+        {
+            "word": "verbīs",
+            "desc": "Plural-Dative"
+        },
+        {
+            "word": "verbīs",
+            "desc": "Plural-Ablative"
+        }
+    ],
+    "Hint":"LAT_I_II",
+    "Base":"verb"
+}

@@ -1,0 +1,315 @@
+{
+    "list" : [
+        {
+            "word" : "zuó-tiān",
+            "desc" : "hyesterday",
+            "alt" : "昨天"
+        },
+        {
+            "word" : "jīn-tiān",
+            "desc" : "today",
+            "alt" : "今天"
+        },
+        {
+            "word" : "míng-tiān",
+            "desc" : "tomorrow",
+            "alt" : "明天"
+        },
+        {
+            "word" : "měi-tiān",
+            "desc" : "every day",
+            "alt" : "每天"
+        },
+        {
+            "word" : "yào",
+            "desc" : "to be going to; to want",
+            "alt" : "要"
+        },
+        {
+            "word" : "nǐ míng-tiān yào gàn-má?",
+            "desc" : "what are you doing tomorrow?",
+            "alt" : "你明天要干嘛？"
+        },
+        {
+            "word" : "hé",
+            "desc" : "and; with",
+            "alt" : "和"
+        },
+        {
+            "word" : "péng-yǒu",
+            "desc" : "friend",
+            "alt" : "朋友"
+        },
+        {
+            "word" : "chū-qù wán‘r",
+            "desc" : "to hang out",
+            "alt" : "出去玩儿"
+        },
+        {
+            "word" : "wǒ yào hé péng-yǒu chū-qù wán'r",
+            "desc" : "I'm going to hang out with friends",
+            "alt" : "我要和朋友出去玩儿"
+        },
+        {
+            "word" : "yì-qǐ",
+            "desc" : "together",
+            "alt" : "一起"
+        },
+        {
+            "word" : "nǐ yào yì-qǐ ma?",
+            "desc" : "do you want to join?",
+            "alt" : "你要一起吗？"
+        },
+        {
+            "word" : "yǒu-shì‘r",
+            "desc" : "have got plans",
+            "alt" : "有事儿"
+        },
+        {
+            "word" : "yǒu-kòng",
+            "desc" : "free; available",
+            "alt" : "有空"
+        },
+        {
+            "word" : "nǐ míng-tiān yǒu-kòng ma?",
+            "desc" : "are you free tomorrow?",
+            "alt" : "你明天有空吗？"
+        },
+        {
+            "word" : "wó yǒu-shì‘r",
+            "desc" : "I've got plans",
+            "alt" : "我有事儿"
+        },
+        {
+            "word" : "xià-cì ba!",
+            "desc" : "next time!",
+            "alt" : "下次吧！"
+        },
+        {
+            "word" : "nǐ-men yào qù nǎ'r?",
+            "desc" : "where are you guys going?",
+            "alt" : "你们要去哪儿？"
+        },
+        {
+            "word" : "chàng-gē",
+            "desc" : "to sing",
+            "alt" : "唱歌"
+        },
+        {
+            "word" : "wǒ-men yào qù chàng-K",
+            "desc" : "we are going for karaoke",
+            "alt" : "我们要去唱K"
+        },
+        {
+            "word" : "wǒ ké-yǐ yì-qǐ ma?",
+            "desc" : "can I join you?",
+            "alt" : "我可以一起吗？"
+        },
+        {
+            "word" : "bì-xū de!",
+            "desc" : "of course!",
+            "alt" : "必须的!"
+        },
+        {
+            "word" : "yào-mìng",
+            "desc" : "extremely; terrible",
+            "alt" : "要命"
+        },
+        {
+            "word" : "yáo-míng",
+            "desc" : "Yao Ming (Chinese basketball player)",
+            "alt" : "姚明"
+        },
+        {
+            "word" : "tài yào-mìng le",
+            "desc" : "it's killing me",
+            "alt" : "太要命了"
+        },
+        {
+            "word" : "wǒ chàng-gē yào-mìng",
+            "desc" : "I'm a terrible singer",
+            "alt" : "我唱歌要命"
+        },
+        {
+            "word" : "wǒ bù hǎo yì-si",
+            "desc" : "I'm a bit shy",
+            "alt" : "我不好意思"
+        },
+        {
+            "word" : "ai ya, méi shì'r",
+            "desc" : "It's fine!",
+            "alt" : "哎呀，没事儿！"
+        },
+        {
+            "word" : "chàng zhe wán‘r",
+            "desc" : "just sing for fun",
+            "alt" : "唱着玩儿"
+        },
+        {
+            "word" : "tīng",
+            "desc" : "to listen",
+            "alt" : "听"
+        },
+        {
+            "word" : "hǎo-tīng",
+            "desc" : "beautiful (song)",
+            "alt" : "好听"
+        },
+        {
+            "word" : "háo hǎo-tīng!",
+            "desc" : "it sounds so nice!",
+            "alt" : "好好听！"
+        },
+        {
+            "word" : "dǒng",
+            "desc" : "to understand",
+            "alt" : "懂"
+        },
+        {
+            "word" : "wǒ méi tīng-dǒng",
+            "desc" : "I don't understand",
+            "alt" : "我没听懂"
+        },
+        {
+            "word" : "tā chàng-gē hén hǎo-tīng",
+            "desc" : "he/she sings very well",
+            "alt" : "他/她唱歌很好听"
+        },
+        {
+            "word" : "zhōu-mò",
+            "desc" : "weekend",
+            "alt" : "周末"
+        },
+        {
+            "word" : "dǎ-suàn",
+            "desc" : "to plan; the plan",
+            "alt" : "打算"
+        },
+        {
+            "word" : "nǐ zhōu-mò dǎ-suàn gàn-má?",
+            "desc" : "have you got plans for the weekend?",
+            "alt" : "你周末打算干嘛？"
+        },
+        {
+            "word" : "zài jiā",
+            "desc" : "at home",
+            "alt" : "在家"
+        },
+        {
+            "word" : "huí jiā",
+            "desc" : "to go home",
+            "alt" : "回家"
+        },
+        {
+            "word" : "zhái",
+            "desc" : "to stay indoors",
+            "alt" : "宅"
+        },
+        {
+            "word" : "wó dǎ-suàn zhái zài jiā",
+            "desc" : "I'm planning to stay at home",
+            "alt" : "我打算宅在家"
+        },
+        {
+            "word" : "chī",
+            "desc" : "to eat",
+            "alt" : "吃"
+        },
+        {
+            "word" : "hē",
+            "desc" : "to drink",
+            "alt" : "喝"
+        },
+        {
+            "word" : "shuì",
+            "desc" : "to sleep",
+            "alt" : "睡"
+        },
+        {
+            "word" : "chī le shuì, shuì le chī",
+            "desc" : "eat, sleep, repeat",
+            "alt" : "吃了睡，睡了吃"
+        },
+        {
+            "word" : "guài-bu-dé",
+            "desc" : "no wonder",
+            "alt" : "怪不得"
+        },
+        {
+            "word" : "guài-bu-dé nǐ dān-shēn",
+            "desc" : "no wonder you're single",
+            "alt" : "怪不得你单身"
+        },
+        {
+            "word" : "nà zěn-me le?",
+            "desc" : "so what?",
+            "alt" : "那怎么了？"
+        },
+        {
+            "word" : "ní yě shì ā",
+            "desc" : "so are you",
+            "alt" : "你也是啊"
+        },
+        {
+            "word" : "tài shāng-rén le",
+            "desc" : "that's so hurtful",
+            "alt" : "太伤人了"
+        },
+        {
+            "word" : "tài sǔn le",
+            "desc" : "that's so mean",
+            "alt" : "太损了"
+        },
+        {
+            "word" : "hǎo bā",
+            "desc" : "fair enough",
+            "alt" : "好吧"
+        },
+        {
+            "word" : "bù gēn nǐ zhēng",
+            "desc" : "I'm not gonna argue with you",
+            "alt" : "不跟你争"
+        },
+        {
+            "word" : "nǐ xiān de",
+            "desc" : "you started it",
+            "alt" : "你先的"
+        },
+        {
+            "word" : "wú-liáo",
+            "desc" : "boring; bored",
+            "alt" : "无聊"
+        },
+        {
+            "word" : "hǎo wú-liáo ā",
+            "desc" : "I'm so bored",
+            "alt" : "好无聊啊"
+        },
+        {
+            "word" : "xiǎng",
+            "desc" : "to think; to want to",
+            "alt" : "想"
+        },
+        {
+            "word" : "ní xiǎng bù xiǎng chū-qù wán'r?",
+            "desc" : "do you want to go out?",
+            "alt" : "你想不想出去玩儿？"
+        },
+        {
+            "word" : "hǎo-wán‘r ma?",
+            "desc" : "is it fun?",
+            "alt" : "好玩儿吗？"
+        },
+        {
+            "word" : "chāo hǎo-wán'r",
+            "desc" : "it's super fun",
+            "alt" : "超好玩儿"
+        },
+        {
+            "word" : "hái-xíng ba",
+            "desc" : "it's alright",
+            "alt" : "还行吧"
+        }
+    ],
+    "lang" : "CHINESE"
+}

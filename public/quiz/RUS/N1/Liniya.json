@@ -1,0 +1,54 @@
+{
+    "Quiz": [
+        {
+            "word": "ли́ния",
+            "desc": "Singular-Nom."
+        },
+        {
+            "word": "ли́нию",
+            "desc": "Singular-Accusative."
+        },
+        {
+            "word": "ли́нии",
+            "desc": "Singular-Genitive."
+        },
+        {
+            "word": "ли́нии",
+            "desc": "Singular-Dative."
+        },
+        {
+            "word": "ли́нией",
+            "desc": "Singular-Instr."
+        },
+        {
+            "word": "ли́нии",
+            "desc": "Singular-Prepos."
+        },
+        {
+            "word": "ли́нии",
+            "desc": "Plural-Nom."
+        },
+        {
+            "word": "ли́нии",
+            "desc": "Plural-Accusative."
+        },
+        {
+            "word": "ли́ний",
+            "desc": "Plural-Genitive."
+        },
+        {
+            "word": "ли́ниям",
+            "desc": "Plural-Dative."
+        },
+        {
+            "word": "ли́ниями",
+            "desc": "Plural-Instr."
+        },
+        {
+            "word": "ли́ниях",
+            "desc": "Plural-Prepos."
+        }
+    ],
+    "Hint":"RUS_N_1",
+    "Base":"ли́ни"
+}

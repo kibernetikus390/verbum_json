@@ -1,0 +1,46 @@
+{
+    "Quiz": [
+        {
+            "word": "homō",
+            "desc": "Singular-Nom.Voc."
+        },
+        {
+            "word": "hominem",
+            "desc": "Singular-Accusative"
+        },
+        {
+            "word": "hominis",
+            "desc": "Singular-Genitive"
+        },
+        {
+            "word": "hominī",
+            "desc": "Singular-Dative"
+        },
+        {
+            "word": "homine",
+            "desc": "Singular-Ablative"
+        },
+        {
+            "word": "hominēs",
+            "desc": "Plural-Nom.Voc."
+        },
+        {
+            "word": "hominēs",
+            "desc": "Plural-Accusative"
+        },
+        {
+            "word": "hominum",
+            "desc": "Plural-Genitive"
+        },
+        {
+            "word": "hominibus",
+            "desc": "Plural-Dative"
+        },
+        {
+            "word": "hominibus",
+            "desc": "Plural-Ablative"
+        }
+    ],
+    "Hint":"LAT_III",
+    "Base":"hom"
+}

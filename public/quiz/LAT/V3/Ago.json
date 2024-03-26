@@ -1,0 +1,30 @@
+{
+    "Quiz": [
+        {
+            "word": "agō",
+            "desc": "Singular-1st"
+        },
+        {
+            "word": "agis",
+            "desc": "Singular-2nd"
+        },
+        {
+            "word": "agit",
+            "desc": "Singular-3rd"
+        },
+        {
+            "word": "agimus",
+            "desc": "Plural-1st"
+        },
+        {
+            "word": "agitis",
+            "desc": "Plural-2nd"
+        },
+        {
+            "word": "agunt",
+            "desc": "Plural-3rd"
+        }
+    ],
+    "Hint":"LAT_V_3",
+    "Base":"ag"
+}

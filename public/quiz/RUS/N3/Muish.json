@@ -1,0 +1,54 @@
+{
+    "Quiz": [
+        {
+            "word": "мы́шь",
+            "desc": "Singular-Nom."
+        },
+        {
+            "word": "мы́шь",
+            "desc": "Singular-Accusative."
+        },
+        {
+            "word": "мы́ши",
+            "desc": "Singular-Genitive."
+        },
+        {
+            "word": "мы́ши",
+            "desc": "Singular-Dative."
+        },
+        {
+            "word": "мы́шью",
+            "desc": "Singular-Instr."
+        },
+        {
+            "word": "мы́ши",
+            "desc": "Singular-Prepos."
+        },
+        {
+            "word": "мы́ши",
+            "desc": "Plural-Nom."
+        },
+        {
+            "word": "мыше́й",
+            "desc": "Plural-Accusative."
+        },
+        {
+            "word": "мыше́й",
+            "desc": "Plural-Genitive."
+        },
+        {
+            "word": "мыша́м",
+            "desc": "Plural-Dative."
+        },
+        {
+            "word": "мыша́ми",
+            "desc": "Plural-Instr."
+        },
+        {
+            "word": "мыша́х",
+            "desc": "Plural-Prepos."
+        }
+    ],
+    "Hint":"RUS_N_3",
+    "Base":"мыш"
+}

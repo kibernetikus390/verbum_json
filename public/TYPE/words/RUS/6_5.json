@@ -1,0 +1,93 @@
+{
+    "list" : [
+        {
+            "word" : "прика́з",
+            "desc" : "(Nm) order, command"
+        },
+        {
+            "word" : "кома́нда",
+            "desc" : "(Nf) order, command, team, party"
+        },
+        {
+            "word" : "главнокома́ндующий",
+            "desc" : "(Nm) commander in chief"
+        },
+        {
+            "word" : "главк",
+            "desc" : "(Nm) central administrative board, central directorate"
+        },
+        {
+            "word" : "поря́док",
+            "desc" : "(Nm) order, sequence, array"
+        },
+        {
+            "word" : "ряд",
+            "desc" : "(Nm) row, line, rank"
+        },
+        {
+            "word" : "закон и порядок",
+            "desc" : "law and order"
+        },
+        {
+            "word" : "па́рень",
+            "desc" : "(Nm) guy, fellow"
+        },
+        {
+            "word" : "узнава́ть, узна́ть",
+            "desc" : "to recognize, know, learn"
+        },
+        {
+            "word" : "узнава́ние",
+            "desc" : "(Nn) cognizance, recognition"
+        },
+        {
+            "word" : "зна́ние",
+            "desc" : "(Nn) knowledge"
+        },
+        {
+            "word" : "о́пыт",
+            "desc" : "(Nm) experience experiment"
+        },
+        {
+            "word" : "опи́сывать, описа́ть",
+            "desc" : "to describe, portray,"
+        },
+        {
+            "word" : "писа́ть, написа́ть",
+            "desc" : "to write"
+        },
+        {
+            "word" : "каза́ть, вы́казать",
+            "desc" : "to show"
+        },
+        {
+            "word" : "ука́зывать, указа́ть",
+            "desc" : "to show, indicate, point"
+        },
+        {
+            "word" : "говори́ть, сказа́ть",
+            "desc" : "to say"
+        },
+        {
+            "word" : "расска́зывать, рассказа́ть",
+            "desc" : "to tell"
+        },
+        {
+            "word" : "в середине",
+            "desc" : "in the middle"
+        },
+        {
+            "word" : "середи́на",
+            "desc" : "(Nf) middle"
+        },
+        {
+            "word" : "сле́ва",
+            "desc" : "(Adv) to the left"
+        },
+        {
+            "word" : "справа",
+            "desc" : "(Adv) to the right"
+        }
+    ],
+    "lang" : "RUS"
+}

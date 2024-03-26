@@ -1,0 +1,86 @@
+{
+    "Quiz": [
+        {
+            "word": "omnis",
+            "desc": "Masc.Fem.-Singular-Nom.Voc."
+        },
+        {
+            "word": "omnem",
+            "desc": "Masc.Fem.-Singular-Acc."
+        },
+        {
+            "word": "omnis",
+            "desc": "Masc.Fem.-Singular-Gen."
+        },
+        {
+            "word": "omnī",
+            "desc": "Masc.Fem.-Singular-Dat."
+        },
+        {
+            "word": "omnī",
+            "desc": "Masc.Fem.-Singular-Abl."
+        },
+        {
+            "word": "omnēs",
+            "desc": "Masc.Fem.-Plural-Nom.Voc."
+        },
+        {
+            "word": "omnīs or omnēs",
+            "desc": "Masc.Fem.-Plural-Acc."
+        },
+        {
+            "word": "omnium",
+            "desc": "Masc.Fem.-Plural-Gen."
+        },
+        {
+            "word": "omnibus",
+            "desc": "Masc.Fem.-Plural-Dat."
+        },
+        {
+            "word": "omnibus",
+            "desc": "Masc.Fem.-Plural-Abl."
+        },
+        {
+            "word": "omne",
+            "desc": "Neut.-Singular-Nom.Voc."
+        },
+        {
+            "word": "omne",
+            "desc": "Neut.-Singular-Acc."
+        },
+        {
+            "word": "omnis",
+            "desc": "Neut.-Singular-Gen."
+        },
+        {
+            "word": "omnī",
+            "desc": "Neut.-Singular-Dat."
+        },
+        {
+            "word": "omnī",
+            "desc": "Neut.-Singular-Abl."
+        },
+        {
+            "word": "omnia",
+            "desc": "Neut.-Plural-Nom.Voc."
+        },
+        {
+            "word": "omnia",
+            "desc": "Neut.-Plural-Acc."
+        },
+        {
+            "word": "omnium",
+            "desc": "Neut.-Plural-Gen."
+        },
+        {
+            "word": "omnibus",
+            "desc": "Neut.-Plural-Dat."
+        },
+        {
+            "word": "omnibus",
+            "desc": "Neut.-Plural-Abl."
+        }
+    ],
+    "Hint":"LAT_III",
+    "Base":"omn"
+}

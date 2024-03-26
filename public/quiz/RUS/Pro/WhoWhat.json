@@ -1,0 +1,53 @@
+{
+    "Quiz": [
+        {
+            "word": "кто",
+            "desc": "Who-Nominative"
+        },
+        {
+            "word": "кого́",
+            "desc": "Who-Accusative"
+        },
+        {
+            "word": "кого́",
+            "desc": "Who-Genitive"
+        },
+        {
+            "word": "кому́",
+            "desc": "Who-Dative"
+        },
+        {
+            "word": "кем",
+            "desc": "Who-Instrumental"
+        },
+        {
+            "word": "ком",
+            "desc": "Who-Prepositional"
+        },
+        {
+            "word": "что",
+            "desc": "What-Nominative"
+        },
+        {
+            "word": "что",
+            "desc": "What-Accusative"
+        },
+        {
+            "word": "чего́",
+            "desc": "What-Genitive"
+        },
+        {
+            "word": "чему́",
+            "desc": "What-Dative"
+        },
+        {
+            "word": "чем",
+            "desc": "What-Instrumental"
+        },
+        {
+            "word": "чём",
+            "desc": "What-Prepositional"
+        }
+    ],
+    "Hint":"RUS_P_WHO_WHAT"
+}

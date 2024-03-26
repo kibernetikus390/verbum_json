@@ -1,0 +1,30 @@
+{
+    "Quiz": [
+        {
+            "word": "discō",
+            "desc": "Singular-1st"
+        },
+        {
+            "word": "discis",
+            "desc": "Singular-2nd"
+        },
+        {
+            "word": "discit",
+            "desc": "Singular-3rd"
+        },
+        {
+            "word": "discimus",
+            "desc": "Plural-1st"
+        },
+        {
+            "word": "discitis",
+            "desc": "Plural-2nd"
+        },
+        {
+            "word": "discunt",
+            "desc": "Plural-3rd"
+        }
+    ],
+    "Hint":"LAT_V_3",
+    "Base":"disc"
+}

@@ -1,0 +1,54 @@
+{
+    "Quiz": [
+        {
+            "word": "кни́га",
+            "desc": "Singular-Nom."
+        },
+        {
+            "word": "кни́гу",
+            "desc": "Singular-Accusative."
+        },
+        {
+            "word": "кни́ги",
+            "desc": "Singular-Genitive."
+        },
+        {
+            "word": "кни́ге",
+            "desc": "Singular-Dative."
+        },
+        {
+            "word": "кни́гой",
+            "desc": "Singular-Instr."
+        },
+        {
+            "word": "кни́ге",
+            "desc": "Singular-Prepos."
+        },
+        {
+            "word": "кни́ги",
+            "desc": "Plural-Nom."
+        },
+        {
+            "word": "кни́ги",
+            "desc": "Plural-Accusative."
+        },
+        {
+            "word": "кни́г",
+            "desc": "Plural-Genitive."
+        },
+        {
+            "word": "кни́гам",
+            "desc": "Plural-Dative."
+        },
+        {
+            "word": "кни́гами",
+            "desc": "Plural-Instr."
+        },
+        {
+            "word": "кни́гах",
+            "desc": "Plural-Prepos."
+        }
+    ],
+    "Hint":"RUS_N_1",
+    "Base":"кни́г"
+}

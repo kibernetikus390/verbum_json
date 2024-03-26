@@ -1,0 +1,81 @@
+{
+    "list" : [
+        {
+            "word" : "сове́т",
+            "desc" : "(Nm) advice, counsel, Soviet"
+        },
+        {
+            "word" : "сове́тник",
+            "desc" : "(Nm) advisor"
+        },
+        {
+            "word" : "сове́товать, посове́товать",
+            "desc" : "(Vi) to advice"
+        },
+        {
+            "word" : "наве́т",
+            "desc" : "(Nm) slander"
+        },
+        {
+            "word" : "отве́т",
+            "desc" : "(Nm) answer, response"
+        },
+        {
+            "word" : "приве́т",
+            "desc" : "(Int) hello"
+        },
+        {
+            "word" : "обе́т",
+            "desc" : "(Nm) vow, promise"
+        },
+        {
+            "word" : "сообще́ние",
+            "desc" : "(Nn) message, report"
+        },
+        {
+            "word" : "сообща́ть, сообщи́ть",
+            "desc" : "to communicate, report"
+        },
+        {
+            "word" : "обще́ние",
+            "desc" : "(Nn) communication "
+        },
+        {
+            "word" : "внима́ние",
+            "desc" : "(Nn) attention, care"
+        },
+        {
+            "word" : "обратить внимание",
+            "desc" : "to pay attention"
+        },
+        {
+            "word" : "обраща́ть, обрати́ть",
+            "desc" : "to turn into, direct"
+        },
+        {
+            "word" : "обраще́ние",
+            "desc" : "(Nn) conversion, transformation"
+        },
+        {
+            "word" : "жа́ловаться, пожа́ловаться",
+            "desc" : "to complain oneself"
+        },
+        {
+            "word" : "жа́ловать, пожа́ловать",
+            "desc" : "(Vi) to grant, favour"
+        },
+        {
+            "word" : "жа́лоба",
+            "desc" : "(Nf) complaint"
+        },
+        {
+            "word" : "забыва́ть, забы́ть",
+            "desc" : "to forget, neglect"
+        },
+        {
+            "word" : "дава́ть, дать",
+            "desc" : "(Vp) to give, let"
+        }
+    ],
+    "lang" : "RUS"
+}

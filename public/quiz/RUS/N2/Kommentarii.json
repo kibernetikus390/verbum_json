@@ -1,0 +1,54 @@
+{
+    "Quiz": [
+        {
+            "word": "коммента́рий",
+            "desc": "Singular-Nom."
+        },
+        {
+            "word": "коммента́рий",
+            "desc": "Singular-Accusative."
+        },
+        {
+            "word": "коммента́рия",
+            "desc": "Singular-Genitive."
+        },
+        {
+            "word": "коммента́рию",
+            "desc": "Singular-Dative."
+        },
+        {
+            "word": "коммента́рием",
+            "desc": "Singular-Instr."
+        },
+        {
+            "word": "коммента́рии",
+            "desc": "Singular-Prepos."
+        },
+        {
+            "word": "коммента́рии",
+            "desc": "Plural-Nom."
+        },
+        {
+            "word": "коммента́рии",
+            "desc": "Plural-Accusative."
+        },
+        {
+            "word": "коммента́риев",
+            "desc": "Plural-Genitive."
+        },
+        {
+            "word": "коммента́риям",
+            "desc": "Plural-Dative."
+        },
+        {
+            "word": "коммента́риями",
+            "desc": "Plural-Instr."
+        },
+        {
+            "word": "коммента́риях",
+            "desc": "Plural-Prepos."
+        }
+    ],
+    "Hint":"RUS_N_2_M",
+    "Base":"9"
+}

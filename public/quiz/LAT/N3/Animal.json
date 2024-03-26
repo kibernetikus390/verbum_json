@@ -1,0 +1,46 @@
+{
+    "Quiz": [
+        {
+            "word": "animal",
+            "desc": "Singular-Nom.Voc."
+        },
+        {
+            "word": "animal",
+            "desc": "Singular-Accusative"
+        },
+        {
+            "word": "animālis",
+            "desc": "Singular-Genitive"
+        },
+        {
+            "word": "animālī",
+            "desc": "Singular-Dative"
+        },
+        {
+            "word": "animālī",
+            "desc": "Singular-Ablative"
+        },
+        {
+            "word": "animālia",
+            "desc": "Plural-Nom.Voc."
+        },
+        {
+            "word": "animālia",
+            "desc": "Plural-Accusative"
+        },
+        {
+            "word": "animālium",
+            "desc": "Plural-Genitive"
+        },
+        {
+            "word": "animālibus",
+            "desc": "Plural-Dative"
+        },
+        {
+            "word": "animālibus",
+            "desc": "Plural-Ablative"
+        }
+    ],
+    "Hint":"LAT_III",
+    "Base":"animal"
+}

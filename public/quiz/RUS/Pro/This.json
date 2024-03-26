@@ -1,0 +1,101 @@
+{
+    "Quiz": [
+        {
+            "word": "э́тот",
+            "desc": "Masc.-Nominative"
+        },
+        {
+            "word": "э́тот or ́этого",
+            "desc": "Masc.-Accusative"
+        },
+        {
+            "word": "э́того",
+            "desc": "Masc.-Genitive"
+        },
+        {
+            "word": "э́тому",
+            "desc": "Masc.-Dative"
+        },
+        {
+            "word": "э́тим",
+            "desc": "Masc.-Instrumental"
+        },
+        {
+            "word": "э́том",
+            "desc": "Masc.-Prepositional"
+        },
+        {
+            "word": "э́то",
+            "desc": "Neut.-Nominative"
+        },
+        {
+            "word": "э́то",
+            "desc": "Neut.-Accusative"
+        },
+        {
+            "word": "э́того",
+            "desc": "Neut.-Genitive"
+        },
+        {
+            "word": "э́тому",
+            "desc": "Neut.-Dative"
+        },
+        {
+            "word": "э́тим",
+            "desc": "Neut.-Instrumental"
+        },
+        {
+            "word": "э́том",
+            "desc": "Neut.-Prepositional"
+        },
+        {
+            "word": "э́та",
+            "desc": "Fem.-Nominative"
+        },
+        {
+            "word": "э́ту",
+            "desc": "Fem.-Accusative"
+        },
+        {
+            "word": "э́той",
+            "desc": "Fem.-Genitive"
+        },
+        {
+            "word": "э́той",
+            "desc": "Fem.-Dative"
+        },
+        {
+            "word": "э́той",
+            "desc": "Fem.-Instrumental"
+        },
+        {
+            "word": "э́той",
+            "desc": "Fem.-Prepositional"
+        },
+        {
+            "word": "э́ти",
+            "desc": "Plural-Nominative"
+        },
+        {
+            "word": "э́ти or э́тих",
+            "desc": "Plural-Accusative"
+        },
+        {
+            "word": "э́тих",
+            "desc": "Plural-Genitive"
+        },
+        {
+            "word": "э́тим",
+            "desc": "Plural-Dative"
+        },
+        {
+            "word": "э́тими",
+            "desc": "Plural-Instrumental"
+        },
+        {
+            "word": "э́тих",
+            "desc": "Plural-Prepositional"
+        }
+    ],
+    "Hint":"RUS_P_THIS"
+}

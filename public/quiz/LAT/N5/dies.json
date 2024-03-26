@@ -1,0 +1,46 @@
+{
+    "Quiz": [
+        {
+            "word": "diēs",
+            "desc": "Singular-Nom.Voc."
+        },
+        {
+            "word": "diem",
+            "desc": "Singular-Accusative"
+        },
+        {
+            "word": "diēī",
+            "desc": "Singular-Genitive"
+        },
+        {
+            "word": "diēī",
+            "desc": "Singular-Dative"
+        },
+        {
+            "word": "diē",
+            "desc": "Singular-Ablative"
+        },
+        {
+            "word": "diēs",
+            "desc": "Plural-Nom.Voc."
+        },
+        {
+            "word": "diēs",
+            "desc": "Plural-Accusative"
+        },
+        {
+            "word": "diērum",
+            "desc": "Plural-Genitive"
+        },
+        {
+            "word": "diēbus",
+            "desc": "Plural-Dative"
+        },
+        {
+            "word": "diēbus",
+            "desc": "Plural-Ablative"
+        }
+    ],
+    "Hint":"LAT_V",
+    "Base":"di"
+}

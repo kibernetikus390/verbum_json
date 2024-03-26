@@ -1,0 +1,46 @@
+{
+    "Quiz": [
+        {
+            "word": "puer",
+            "desc": "Singular-Nom.Voc."
+        },
+        {
+            "word": "puerum",
+            "desc": "Singular-Accusative"
+        },
+        {
+            "word": "puerī",
+            "desc": "Singular-Genitive"
+        },
+        {
+            "word": "puerō",
+            "desc": "Singular-Dative"
+        },
+        {
+            "word": "puerō",
+            "desc": "Singular-Ablative"
+        },
+        {
+            "word": "puerī",
+            "desc": "Plural-Nom.Voc."
+        },
+        {
+            "word": "puerōs",
+            "desc": "Plural-Accusative"
+        },
+        {
+            "word": "puerōrum",
+            "desc": "Plural-Genitive"
+        },
+        {
+            "word": "puerīs",
+            "desc": "Plural-Dative"
+        },
+        {
+            "word": "puerīs",
+            "desc": "Plural-Ablative"
+        }
+    ],
+    "Hint":"LAT_I_II",
+    "Base":"puer"
+}

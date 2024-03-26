@@ -1,0 +1,81 @@
+{
+    "list" : [
+        {
+            "word" : "заболевание",
+            "desc" : "disease; illness"
+        },
+        {
+            "word" : "порез",
+            "desc" : "cut"
+        },
+        {
+            "word" : "инфаркт",
+            "desc" : "heart attack"
+        },
+        {
+            "word" : "грипп",
+            "desc" : "(the) flu"
+        },
+        {
+            "word" : "лежать",
+            "desc" : "to lay (oneself) down"
+        },
+        {
+            "word" : "лечь",
+            "desc" : "to lie down"
+        },
+        {
+            "word" : "присесть",
+            "desc" : "to sit (oneself) down"
+        },
+        {
+            "word" : "сесть",
+            "desc" : "to sit"
+        },
+        {
+            "word" : "стоять",
+            "desc" : "to stand"
+        },
+        {
+            "word" : "встать",
+            "desc" : "to stand up"
+        },
+        {
+            "word" : "осмотреть",
+            "desc" : "to examine"
+        },
+        {
+            "word" : "выздороветь",
+            "desc" : "to recover"
+        },
+        {
+            "word" : "умереть",
+            "desc" : "to die"
+        },
+        {
+            "word" : "редкий",
+            "desc" : "rare"
+        },
+        {
+            "word" : "распространённый",
+            "desc" : "common; widespread"
+        },
+        {
+            "word" : "беременный",
+            "desc" : "pregnant"
+        },
+        {
+            "word" : "пострадавший",
+            "desc" : "injured"
+        },
+        {
+            "word" : "повреждение",
+            "desc" : "injury; damage"
+        },
+        {
+            "word" : "мёртвый",
+            "desc" : "dead"
+        }
+    ],
+    "lang" : "RUS"
+}

@@ -1,0 +1,54 @@
+{
+    "Quiz": [
+        {
+            "word": "ко́сть",
+            "desc": "Singular-Nom."
+        },
+        {
+            "word": "ко́сть",
+            "desc": "Singular-Accusative."
+        },
+        {
+            "word": "ко́сти",
+            "desc": "Singular-Genitive."
+        },
+        {
+            "word": "ко́сти",
+            "desc": "Singular-Dative."
+        },
+        {
+            "word": "ко́стью",
+            "desc": "Singular-Instr."
+        },
+        {
+            "word": "ко́сти",
+            "desc": "Singular-Prepos."
+        },
+        {
+            "word": "ко́сти",
+            "desc": "Plural-Nom."
+        },
+        {
+            "word": "ко́сти",
+            "desc": "Plural-Accusative."
+        },
+        {
+            "word": "косте́й",
+            "desc": "Plural-Genitive."
+        },
+        {
+            "word": "костя́м",
+            "desc": "Plural-Dative."
+        },
+        {
+            "word": "костя́ми",
+            "desc": "Plural-Instr."
+        },
+        {
+            "word": "костя́х",
+            "desc": "Plural-Prepos."
+        }
+    ],
+    "Hint":"RUS_N_3",
+    "Base":"кос"
+}

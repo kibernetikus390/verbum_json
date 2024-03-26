@@ -1,0 +1,46 @@
+{
+    "Quiz": [
+        {
+            "word": "rēs",
+            "desc": "Singular-Nom.Voc."
+        },
+        {
+            "word": "rem",
+            "desc": "Singular-Accusative"
+        },
+        {
+            "word": "reī",
+            "desc": "Singular-Genitive"
+        },
+        {
+            "word": "reī",
+            "desc": "Singular-Dative"
+        },
+        {
+            "word": "rē",
+            "desc": "Singular-Ablative"
+        },
+        {
+            "word": "rēs",
+            "desc": "Plural-Nom.Voc."
+        },
+        {
+            "word": "rēs",
+            "desc": "Plural-Accusative"
+        },
+        {
+            "word": "rērum",
+            "desc": "Plural-Genitive"
+        },
+        {
+            "word": "rēbus",
+            "desc": "Plural-Dative"
+        },
+        {
+            "word": "rēbus",
+            "desc": "Plural-Ablative"
+        }
+    ],
+    "Hint":"LAT_V",
+    "Base":"re"
+}

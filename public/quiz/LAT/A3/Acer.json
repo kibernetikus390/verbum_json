@@ -1,0 +1,90 @@
+{
+    "Quiz": [
+        {
+            "word": "ācer",
+            "desc": "Masc.-Singular-Nom.Voc."
+        },
+        {
+            "word": "ācrem",
+            "desc": "Masc.Fem.-Singular-Acc."
+        },
+        {
+            "word": "ācris",
+            "desc": "Masc.Fem.-Singular-Gen."
+        },
+        {
+            "word": "ācrī",
+            "desc": "Masc.Fem.-Singular-Dat."
+        },
+        {
+            "word": "ācrī",
+            "desc": "Masc.Fem.-Singular-Abl."
+        },
+        {
+            "word": "ācrēs",
+            "desc": "Masc.Fem.-Plural-Nom.Voc."
+        },
+        {
+            "word": "ācrīs or ācrēs",
+            "desc": "Masc.Fem.-Plural-Acc."
+        },
+        {
+            "word": "ācrium",
+            "desc": "Masc.Fem.-Plural-Gen."
+        },
+        {
+            "word": "ācribus",
+            "desc": "Masc.Fem.-Plural-Dat."
+        },
+        {
+            "word": "ācribus",
+            "desc": "Masc.Fem.-Plural-Abl."
+        },
+        {
+            "word": "ācris",
+            "desc": "Fem.-Singular-Nom.Voc."
+        },
+        {
+            "word": "ācre",
+            "desc": "Neut.-Singular-Nom.Voc."
+        },
+        {
+            "word": "ācre",
+            "desc": "Neut.-Singular-Acc."
+        },
+        {
+            "word": "ācris",
+            "desc": "Neut.-Singular-Gen."
+        },
+        {
+            "word": "ācrī",
+            "desc": "Neut.-Singular-Dat."
+        },
+        {
+            "word": "ācrī",
+            "desc": "Neut.-Singular-Abl."
+        },
+        {
+            "word": "ācria",
+            "desc": "Neut.-Plural-Nom.Voc."
+        },
+        {
+            "word": "ācria",
+            "desc": "Neut.-Plural-Acc."
+        },
+        {
+            "word": "ācrium",
+            "desc": "Neut.-Plural-Gen."
+        },
+        {
+            "word": "ācribus",
+            "desc": "Neut.-Plural-Dat."
+        },
+        {
+            "word": "ācribus",
+            "desc": "Neut.-Plural-Abl."
+        }
+    ],
+    "Hint":"LAT_III",
+    "Base":"ac"
+}

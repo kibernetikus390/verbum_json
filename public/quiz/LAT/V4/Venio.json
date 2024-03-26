@@ -1,0 +1,30 @@
+{
+    "Quiz": [
+        {
+            "word": "veniō",
+            "desc": "Singular-1st"
+        },
+        {
+            "word": "venīs",
+            "desc": "Singular-2nd"
+        },
+        {
+            "word": "venit",
+            "desc": "Singular-3rd"
+        },
+        {
+            "word": "venīmus",
+            "desc": "Plural-1st"
+        },
+        {
+            "word": "venītis",
+            "desc": "Plural-2nd"
+        },
+        {
+            "word": "veniunt",
+            "desc": "Plural-3rd"
+        }
+    ],
+    "Hint":"LAT_V_4",
+    "Base":"veni"
+}

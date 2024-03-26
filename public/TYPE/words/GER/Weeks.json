@@ -1,0 +1,65 @@
+{
+    "list" : [
+        {
+            "word" : "am Montag",
+            "desc" : "on Monday"
+        },
+        {
+            "word" : "am Dienstag",
+            "desc" : "on Tuesday"
+        },
+        {
+            "word" : "am Mittwoch",
+            "desc" : "on Wednesday"
+        },
+        {
+            "word" : "am Donnerstag",
+            "desc" : "on Thursday"
+        },
+        {
+            "word" : "am Freitag",
+            "desc" : "on Friday"
+        },
+        {
+            "word" : "am Samstag",
+            "desc" : "on Saturday"
+        },
+        {
+            "word" : "am Sonntag",
+            "desc" : "on Sunday"
+        },
+        {
+            "word" : "unter der Woche",
+            "desc" : "during the week"
+        },
+        {
+            "word" : "am Wochenende",
+            "desc" : "on the weekend"
+        },
+        {
+            "word" : "am Morgen",
+            "desc" : "in the morning"
+        },
+        {
+            "word" : "am Vormittag",
+            "desc" : "before middayg"
+        },
+        {
+            "word" : "am Mittag",
+            "desc" : "at noon"
+        },
+        {
+            "word" : "am Nachmittag",
+            "desc" : "in the afternoon"
+        },
+        {
+            "word" : "am Abend",
+            "desc" : "in the evening"
+        },
+        {
+            "word" : "nachts",
+            "desc" : "at night"
+        }
+    ],
+    "lang" : "GERMAN"
+}

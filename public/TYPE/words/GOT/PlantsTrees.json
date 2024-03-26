@@ -1,0 +1,75 @@
+{
+    "list" : [
+        {
+            "word" : "sa bloma flos",
+            "alt" : "𐍃𐌰 𐌱𐌻𐍉𐌼𐌰(m) / flōs(m)",
+            "desc" : "the flower"
+        },
+        {
+            "word" : "sa bagms arbor",
+            "alt" : "𐍃𐌰 𐌱𐌰𐌲𐌼𐍃(m) / arbor(f)",
+            "desc" : "the tree"
+        },
+        {
+            "word" : "sa thaurnus spina",
+            "alt" : "𐍃𐌰 𐌸𐌰𐌿𐍂𐌽𐌿𐍃(m) / spīna(f)",
+            "desc" : "the thorn"
+        },
+        {
+            "word" : "so wigadeina so wigadeino carduus",
+            "alt" : "𐍃𐍉 𐍅𐌹𐌲𐌰𐌳𐌴𐌹𐌽𐌰 / 𐍃𐍉 𐍅𐌹𐌲𐌰𐌳𐌴𐌹𐌽𐍉 / carduus",
+            "desc" : "アザミ"
+        },
+        {
+            "word" : "sa smakka ficus",
+            "alt" : "𐍃𐌰 𐍃𐌼𐌰𐌺𐌺𐌰(m) / fīcus(m,f)",
+            "desc" : "いちじく"
+        },
+        {
+            "word" : "sa smakkabagms ficus",
+            "alt" : "𐍃𐌰 𐍃𐌼𐌰𐌺𐌺𐌰𐌱𐌰𐌲𐌼𐍃(m) / fīcus(m,f)",
+            "desc" : "いちじくの木"
+        },
+        {
+            "word" : "sa peikabagms palma",
+            "alt" : "𐍃𐌰 𐍀𐌴𐌹𐌺𐌰𐌱𐌰𐌲𐌼𐍃(m) / palma(f)",
+            "desc" : "ヤシ"
+        },
+        {
+            "word" : "thata gras herba",
+            "alt" : "𐌸𐌰𐍄𐌰 𐌲𐍂𐌰𐍃(n) / herba(f)",
+            "desc" : "草"
+        },
+        {
+            "word" : "sa asts ramulus",
+            "alt" : "𐍃𐌰 𐌰𐍃𐍄𐍃(m) / rāmulus(m)",
+            "desc" : "枝"
+        },
+        {
+            "word" : "sa laufs folium",
+            "alt" : "𐍃𐌰 𐌻𐌰𐌿𐍆𐍃(m) / folium(n)",
+            "desc" : "葉"
+        },
+        {
+            "word" : "thata weinabasi uva",
+            "alt" : "𐌸𐌰𐍄𐌰 𐍅𐌴𐌹𐌽𐌰𐌱𐌰𐍃𐌹(n) / ūva(f)",
+            "desc" : "ぶどう"
+        },
+        {
+            "word" : "thata weinatriu vīnea",
+            "alt" : "𐌸𐌰𐍄𐌰 𐍅𐌴𐌹𐌽𐌰𐍄𐍂𐌹𐌿 (n) / vīnea(f)",
+            "desc" : "つる"
+        },
+        {
+            "word" : "thata kaurn granum",
+            "alt" : "𐌸𐌰𐍄𐌰 𐌺𐌰𐌿𐍂𐌽(n) / grānum(n)",
+            "desc" : "穀類"
+        },
+        {
+            "word" : "sa gazds spina",
+            "alt" : "𐍃𐌰 𐌲𐌰𐌶𐌳𐍃(m) / spīna(f)",
+            "desc" : "とげ"
+        }
+    ],
+    "lang" : "GOT"
+}

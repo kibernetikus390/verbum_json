@@ -1,0 +1,54 @@
+{
+    "Quiz": [
+        {
+            "word": "ба́ня",
+            "desc": "Singular-Nom."
+        },
+        {
+            "word": "ба́ню",
+            "desc": "Singular-Accusative."
+        },
+        {
+            "word": "ба́ни",
+            "desc": "Singular-Genitive."
+        },
+        {
+            "word": "ба́не",
+            "desc": "Singular-Dative."
+        },
+        {
+            "word": "ба́ней",
+            "desc": "Singular-Instr."
+        },
+        {
+            "word": "ба́не",
+            "desc": "Singular-Prepos."
+        },
+        {
+            "word": "ба́ни",
+            "desc": "Plural-Nom."
+        },
+        {
+            "word": "ба́ни",
+            "desc": "Plural-Accusative."
+        },
+        {
+            "word": "ба́нь",
+            "desc": "Plural-Genitive."
+        },
+        {
+            "word": "ба́ням",
+            "desc": "Plural-Dative."
+        },
+        {
+            "word": "ба́нями",
+            "desc": "Plural-Instr."
+        },
+        {
+            "word": "ба́нях",
+            "desc": "Plural-Prepos."
+        }
+    ],
+    "Hint":"RUS_N_1",
+    "Base":"ба́н",
+}

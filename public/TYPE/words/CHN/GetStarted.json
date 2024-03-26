@@ -1,0 +1,150 @@
+{
+    "list" : [
+        {
+            "word" : "nǐ",
+            "alt" : "你",
+            "desc" : "you"
+        },
+        {
+            "word" : "ní-hǎo",
+            "alt" : "你好",
+            "desc" : "hello"
+        },
+        {
+            "word" : "shì",
+            "alt" : "是",
+            "desc" : "yes"
+        },
+        {
+            "word" : "bú shì",
+            "alt" : "不是",
+            "desc" : "no; not"
+        },
+        {
+            "word" : "xiè-xie",
+            "alt" : "谢谢",
+            "desc" : "thanks"
+        },
+        {
+            "word" : "bú yòng xiè",
+            "alt" : "不用谢",
+            "desc" : "you're welcome"
+        },
+        {
+            "word" : "wǒ",
+            "alt" : "我",
+            "desc" : "I"
+        },
+        {
+            "word" : "lái",
+            "alt" : "来",
+            "desc" : "to come"
+        },
+        {
+            "word" : "qù",
+            "alt" : "去",
+            "desc" : "to go"
+        },
+        {
+            "word" : "wǒ qù!",
+            "alt" : "我去！",
+            "desc" : "damn!"
+        },
+        {
+            "word" : "shén-me?",
+            "alt" : "什么？",
+            "desc" : "what？"
+        },
+        {
+            "word" : "wèi shén-me?",
+            "alt" : "为什么？",
+            "desc" : "why?"
+        },
+        {
+            "word" : "bú wèi shén-me",
+            "alt" : "不为什么",
+            "desc" : "just because"
+        },
+        {
+            "word" : "nǐ ne?",
+            "alt" : "你呢？",
+            "desc" : "and you?"
+        },
+        {
+            "word" : "suó-yǐ",
+            "alt" : "所以",
+            "desc" : "so; therefore"
+        },
+        {
+            "word" : "suó-yǐ ne?",
+            "alt" : "所以呢？",
+            "desc" : "so?"
+        },
+        {
+            "word" : "zài",
+            "alt" : "再",
+            "desc" : "again"
+        },
+        {
+            "word" : "zài-jiàn",
+            "alt" : "再见",
+            "desc" : "bye"
+        },
+        {
+            "word" : "zǎo a!",
+            "alt" : "早啊！",
+            "desc" : "morning!"
+        },
+        {
+            "word" : "rén",
+            "alt" : "人",
+            "desc" : "person"
+        },
+        {
+            "word" : "dà",
+            "alt" : "大",
+            "desc" : "big"
+        },
+        {
+            "word" : "xiǎo",
+            "alt" : "小",
+            "desc" : "small"
+        },
+        {
+            "word" : "nǚ",
+            "alt" : "女",
+            "desc" : "woman; female"
+        },
+        {
+            "word" : "hǎo",
+            "alt" : "好",
+            "desc" : "good; well"
+        },
+        {
+            "word" : "bù",
+            "alt" : "不",
+            "desc" : "no; not"
+        },
+        {
+            "word" : "rì",
+            "alt" : "日",
+            "desc" : "sun; day"
+        },
+        {
+            "word" : "shì",
+            "alt" : "是",
+            "desc" : "yes; to be"
+        },
+        {
+            "word" : "zǎo",
+            "alt" : "早",
+            "desc" : "early; morning"
+        },
+        {
+            "word" : "ní-hǎo",
+            "alt" : "你好",
+            "desc" : "hello"
+        }
+    ],
+    "lang" : "CHINESE"
+}

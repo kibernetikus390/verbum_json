@@ -1,0 +1,105 @@
+{
+    "list" : [
+        {
+            "word" : "небо",
+            "desc" : "sky"
+        },
+        {
+            "word" : "луна",
+            "desc" : "moon"
+        },
+        {
+            "word" : "солнце",
+            "desc" : "sun"
+        },
+        {
+            "word" : "солнечно",
+            "desc" : "sunny"
+        },
+        {
+            "word" : "дождь",
+            "desc" : "rain"
+        },
+        {
+            "word" : "дождь идёт",
+            "desc" : "it rains"
+        },
+        {
+            "word" : "дождевик",
+            "desc" : "raincoat"
+        },
+        {
+            "word" : "снег",
+            "desc" : "snow"
+        },
+        {
+            "word" : "снег идёт",
+            "desc" : "it snows"
+        },
+        {
+            "word" : "снеговик",
+            "desc" : "snowman"
+        },
+        {
+            "word" : "слепить",
+            "desc" : "to sculpt; to make a sculpture"
+        },
+        {
+            "word" : "градус",
+            "desc" : "degree"
+        },
+        {
+            "word" : "купальник",
+            "desc" : "swimsuit"
+        },
+        {
+            "word" : "одеть",
+            "desc" : "to put on ..."
+        },
+        {
+            "word" : "снять",
+            "desc" : "to take off"
+        },
+        {
+            "word" : "влажный",
+            "desc" : "wet"
+        },
+        {
+            "word" : "сухой",
+            "desc" : "dry"
+        },
+        {
+            "word" : "промокнуть",
+            "desc" : "to get wet"
+        },
+        {
+            "word" : "холодно",
+            "desc" : "(to be) cold"
+        },
+        {
+            "word" : "жарко",
+            "desc" : "(to be) hot"
+        },
+        {
+            "word" : "на улице",
+            "desc" : "outdoors; on the street"
+        },
+        {
+            "word" : "идти на улицу",
+            "desc" : "to go outside"
+        },
+        {
+            "word" : "идти внутрь",
+            "desc" : "to go inside"
+        },
+        {
+            "word" : "если",
+            "desc" : "if"
+        },
+        {
+            "word" : "тогда",
+            "desc" : "then (solution)"
+        }
+    ],
+    "lang" : "RUS"
+}

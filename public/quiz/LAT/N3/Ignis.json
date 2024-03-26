@@ -1,0 +1,46 @@
+{
+    "Quiz": [
+        {
+            "word": "ignis",
+            "desc": "Singular-Nom.Voc."
+        },
+        {
+            "word": "ignem",
+            "desc": "Singular-Accusative"
+        },
+        {
+            "word": "ignis",
+            "desc": "Singular-Genitive"
+        },
+        {
+            "word": "ignī",
+            "desc": "Singular-Dative"
+        },
+        {
+            "word": "igne or ignī",
+            "desc": "Singular-Ablative"
+        },
+        {
+            "word": "ignēs",
+            "desc": "Plural-Nom.Voc."
+        },
+        {
+            "word": "ignēs or ignīs",
+            "desc": "Plural-Accusative"
+        },
+        {
+            "word": "ignium",
+            "desc": "Plural-Genitive"
+        },
+        {
+            "word": "ignibus",
+            "desc": "Plural-Dative"
+        },
+        {
+            "word": "ignibus",
+            "desc": "Plural-Ablative"
+        }
+    ],
+    "Hint":"LAT_III",
+    "Base":"ign"
+}

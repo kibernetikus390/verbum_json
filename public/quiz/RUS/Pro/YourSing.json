@@ -1,0 +1,101 @@
+{
+    "Quiz": [
+        {
+            "word": "твой",
+            "desc": "Masc.-Nominative"
+        },
+        {
+            "word": "твой or твоего",
+            "desc": "Masc.-Accusative"
+        },
+        {
+            "word": "твоего",
+            "desc": "Masc.-Genitive"
+        },
+        {
+            "word": "твоему",
+            "desc": "Masc.-Dative"
+        },
+        {
+            "word": "твоим",
+            "desc": "Masc.-Instrumental"
+        },
+        {
+            "word": "твоём",
+            "desc": "Masc.-Prepositional"
+        },
+        {
+            "word": "твоё",
+            "desc": "Neut.-Nominative"
+        },
+        {
+            "word": "твоё",
+            "desc": "Neut.-Accusative"
+        },
+        {
+            "word": "твоего",
+            "desc": "Neut.-Genitive"
+        },
+        {
+            "word": "твоему",
+            "desc": "Neut.-Dative"
+        },
+        {
+            "word": "твоим",
+            "desc": "Neut.-Instrumental"
+        },
+        {
+            "word": "твоём",
+            "desc": "Neut.-Prepositional"
+        },
+        {
+            "word": "твоя",
+            "desc": "Fem.-Nominative"
+        },
+        {
+            "word": "твою",
+            "desc": "Fem.-Accusative"
+        },
+        {
+            "word": "твоей",
+            "desc": "Fem.-Genitive"
+        },
+        {
+            "word": "твоей",
+            "desc": "Fem.-Dative"
+        },
+        {
+            "word": "твоей",
+            "desc": "Fem.-Instrumental"
+        },
+        {
+            "word": "твоей",
+            "desc": "Fem.-Prepositional"
+        },
+        {
+            "word": "твои",
+            "desc": "Plural-Nominative"
+        },
+        {
+            "word": "твои or твои",
+            "desc": "Plural-Accusative"
+        },
+        {
+            "word": "твои",
+            "desc": "Plural-Genitive"
+        },
+        {
+            "word": "твоим",
+            "desc": "Plural-Dative"
+        },
+        {
+            "word": "твоими",
+            "desc": "Plural-Instrumental"
+        },
+        {
+            "word": "твоих",
+            "desc": "Plural-Prepositional"
+        }
+    ],
+    "Hint":"RUS_P_MY"
+}

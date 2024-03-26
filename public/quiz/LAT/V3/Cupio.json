@@ -1,0 +1,30 @@
+{
+    "Quiz": [
+        {
+            "word": "cupiō",
+            "desc": "Singular-1st"
+        },
+        {
+            "word": "cupis",
+            "desc": "Singular-2nd"
+        },
+        {
+            "word": "cupit",
+            "desc": "Singular-3rd"
+        },
+        {
+            "word": "cupimus",
+            "desc": "Plural-1st"
+        },
+        {
+            "word": "cupitis",
+            "desc": "Plural-2nd"
+        },
+        {
+            "word": "cupiunt",
+            "desc": "Plural-3rd"
+        }
+    ],
+    "Hint":"LAT_V_3",
+    "Base":"cupi"
+}

@@ -1,0 +1,86 @@
+{
+    "Quiz": [
+        {
+            "word": "sapiens",
+            "desc": "Masc.Fem.-Singular-Nom.Voc."
+        },
+        {
+            "word": "sapientem",
+            "desc": "Masc.Fem.-Singular-Acc."
+        },
+        {
+            "word": "sapientis",
+            "desc": "Masc.Fem.-Singular-Gen."
+        },
+        {
+            "word": "sapientī",
+            "desc": "Masc.Fem.-Singular-Dat."
+        },
+        {
+            "word": "sapientī or sapiente",
+            "desc": "Masc.Fem.-Singular-Abl."
+        },
+        {
+            "word": "sapientēs",
+            "desc": "Masc.Fem.-Plural-Nom.Voc."
+        },
+        {
+            "word": "sapientēs or sapientīs",
+            "desc": "Masc.Fem.-Plural-Acc."
+        },
+        {
+            "word": "sapientium",
+            "desc": "Masc.Fem.-Plural-Gen."
+        },
+        {
+            "word": "sapientibus",
+            "desc": "Masc.Fem.-Plural-Dat."
+        },
+        {
+            "word": "sapientibus",
+            "desc": "Masc.Fem.-Plural-Abl."
+        },
+        {
+            "word": "sapiens",
+            "desc": "Neut.-Singular-Nom.Voc."
+        },
+        {
+            "word": "sapiens",
+            "desc": "Neut.-Singular-Acc."
+        },
+        {
+            "word": "sapientis",
+            "desc": "Neut.-Singular-Gen."
+        },
+        {
+            "word": "sapientī",
+            "desc": "Neut.-Singular-Dat."
+        },
+        {
+            "word": "sapientī or sapiente",
+            "desc": "Neut.-Singular-Abl."
+        },
+        {
+            "word": "sapientia",
+            "desc": "Neut.-Plural-Nom.Voc."
+        },
+        {
+            "word": "sapientia",
+            "desc": "Neut.-Plural-Acc."
+        },
+        {
+            "word": "sapientium",
+            "desc": "Neut.-Plural-Gen."
+        },
+        {
+            "word": "sapientibus",
+            "desc": "Neut.-Plural-Dat."
+        },
+        {
+            "word": "sapientia",
+            "desc": "Neut.-Plural-Abl."
+        }
+    ],
+    "Hint":"LAT_III",
+    "Base":"sapien"
+}

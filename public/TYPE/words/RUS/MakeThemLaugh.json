@@ -1,0 +1,61 @@
+{
+    "list" : [
+        {
+            "word" : "теперь",
+            "desc" : "now"
+        },
+        {
+            "word" : "момент",
+            "desc" : "moment"
+        },
+        {
+            "word" : "новичок",
+            "desc" : "beginner"
+        },
+        {
+            "word" : "везти",
+            "desc" : "to be lucky"
+        },
+        {
+            "word" : "новичкам везёт",
+            "desc" : "beginner's luck"
+        },
+        {
+            "word" : "картинка",
+            "desc" : "little picture"
+        },
+        {
+            "word" : "как с картинки",
+            "desc" : "picture-perfect"
+        },
+        {
+            "word" : "капля",
+            "desc" : "a drop"
+        },
+        {
+            "word" : "как две капли воды",
+            "desc" : "the spitting image"
+        },
+        {
+            "word" : "в мгновение ока",
+            "desc" : "in the blink of an eye"
+        },
+        {
+            "word" : "ни ..., ни ...",
+            "desc" : "neither ... , nor ..."
+        },
+        {
+            "word" : "пух",
+            "desc" : "down (feathers)"
+        },
+        {
+            "word" : "перо",
+            "desc" : "feather"
+        },
+        {
+            "word" : "ни пуха, ни пера!",
+            "desc" : "break a leg!"
+        }
+    ],
+    "lang" : "RUS"
+}

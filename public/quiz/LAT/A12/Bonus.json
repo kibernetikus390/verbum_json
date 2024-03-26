@@ -1,0 +1,150 @@
+{
+    "Quiz": [
+        {
+            "word": "bonus",
+            "desc": "Masc.-Singular-Nom."
+        },
+        {
+            "word": "bone",
+            "desc": "Masc.-Singular-Voc."
+        },
+        {
+            "word": "bonum",
+            "desc": "Masc.-Singular-Acc."
+        },
+        {
+            "word": "bonī",
+            "desc": "Masc.-Singular-Gen."
+        },
+        {
+            "word": "bonō",
+            "desc": "Masc.-Singular-Dat."
+        },
+        {
+            "word": "bonō",
+            "desc": "Masc.-Singular-Abl."
+        },
+        {
+            "word": "bonī",
+            "desc": "Masc.-Plural-Nom."
+        },
+        {
+            "word": "bonī",
+            "desc": "Masc.-Plural-Voc."
+        },
+        {
+            "word": "bonōs",
+            "desc": "Masc.-Plural-Acc."
+        },
+        {
+            "word": "bonōrum",
+            "desc": "Masc.-Plural-Gen."
+        },
+        {
+            "word": "bonīs",
+            "desc": "Masc.-Plural-Dat."
+        },
+        {
+            "word": "bonīs",
+            "desc": "Masc.-Plural-Abl."
+        },
+        {
+            "word": "bona",
+            "desc": "Fem.-Singular-Nom."
+        },
+        {
+            "word": "bona",
+            "desc": "Fem.-Singular-Voc."
+        },
+        {
+            "word": "bonam",
+            "desc": "Fem.-Singular-Acc."
+        },
+        {
+            "word": "bonae",
+            "desc": "Fem.-Singular-Gen."
+        },
+        {
+            "word": "bonae",
+            "desc": "Fem.-Singular-Dat."
+        },
+        {
+            "word": "bonā",
+            "desc": "Fem.-Singular-Abl."
+        },
+        {
+            "word": "bonae",
+            "desc": "Fem.-Plural-Nom."
+        },
+        {
+            "word": "bonae",
+            "desc": "Fem.-Plural-Voc."
+        },
+        {
+            "word": "bonās",
+            "desc": "Fem.-Plural-Acc."
+        },
+        {
+            "word": "bonārum",
+            "desc": "Fem.-Plural-Gen."
+        },
+        {
+            "word": "bonīs",
+            "desc": "Fem.-Plural-Dat."
+        },
+        {
+            "word": "bonīs",
+            "desc": "Fem.-Plural-Abl."
+        },
+        {
+            "word": "bonum",
+            "desc": "Neut.-Singular-Nom."
+        },
+        {
+            "word": "bonum",
+            "desc": "Neut.-Singular-Voc."
+        },
+        {
+            "word": "bonum",
+            "desc": "Neut.-Singular-Acc."
+        },
+        {
+            "word": "bonī",
+            "desc": "Neut.-Singular-Gen."
+        },
+        {
+            "word": "bonō",
+            "desc": "Neut.-Singular-Dat."
+        },
+        {
+            "word": "bonō",
+            "desc": "Neut.-Singular-Abl."
+        },
+        {
+            "word": "bona",
+            "desc": "Neut.-Plural-Nom."
+        },
+        {
+            "word": "bona",
+            "desc": "Neut.-Plural-Voc."
+        },
+        {
+            "word": "bona",
+            "desc": "Neut.-Plural-Acc."
+        },
+        {
+            "word": "bonōrum",
+            "desc": "Neut.-Plural-Gen."
+        },
+        {
+            "word": "bonīs",
+            "desc": "Neut.-Plural-Dat."
+        },
+        {
+            "word": "bonīs",
+            "desc": "Neut.-Plural-Abl."
+        }
+    ],
+    "Hint":"LAT_I_II",
+    "Base":"bon"
+}

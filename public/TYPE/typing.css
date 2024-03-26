@@ -1,0 +1,263 @@
+/* ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓  Common */
+:root{
+    --Color-BG: #42275a;
+    --Monokai-BG: #272822;
+    --Monokai-FG: rgb(248, 248, 242);
+    --Monokai-CM: #75715e;
+    --Monokai-Y: #e6db74;
+    --Monokai-P: #ae81ff;
+    --Monokai-B: #66d9ef;
+    --Monokai-O: #fd971f;
+    --Monokai-G: #a6e22e;
+    --Monokai-R: #f92672;
+}
+
+body{
+    background:var(--Monokai-BG);
+    color:var(--Monokai-FG);
+    text-align: center;
+}
+/* ■■■■■■■■■■■■  HRs  ■■■■■■■■■■■■ */
+hr{
+    height: 1px;
+    background-color: var(--Monokai-CM);
+    border: none;
+    color: var(--Monokai-CM);
+}
+hr.style-eight {
+    overflow: visible; /* For IE */
+    padding: 0;
+    border: none;
+    border-top: medium double var(--Monokai-FG);
+    margin-top: 50px;
+    margin-bottom: 40px;
+    color: var(--Monokai-FG);
+    text-align: center;
+}
+hr.style-eight:after {
+    content: "§";
+    display: inline-block;
+    position: relative;
+    top: -0.7em;
+    font-size: 1.5em;
+    padding: 0 0.25em;
+    background: var(--Monokai-BG);
+}
+/* ■■■■■■■■■■■■  Margin for Bottom of Page  ■■■■■■■■■■■■ */
+.container{
+    margin-bottom: 50px;
+}
+/* ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑  Common */
+
+
+/* ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓  ソフトキーボード */
+/* ■■■  ラッパー  ■■■ */
+#KeyboardWrapper div{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+/* ■■■  キー  ■■■ */
+.AKey{
+    font-size: 1.5em;
+    background:var(--Monokai-BG);
+    color:var(--Monokai-FG);
+    border:1px solid var(--Monokai-G);
+    border-radius:4px;
+    
+    align-items:center;
+    align-content:center;
+
+    margin: 5px;
+    width: 80px;
+    height: 80px;
+    
+    cursor:pointer;
+    transition:0.1s;
+}
+/* ■■■  大きいキー  ■■■ */
+.double{
+    width: 160px;
+}
+/* ■■■  アクティブなキー  ■■■ */
+.AKey:active {
+    transform:translateY(1px);
+    background:var(--Monokai-G);
+    color:var(--Monokai-BG);
+    box-shadow:0 1px 0 #000;
+}
+/* ■■■  サイズ　改良の余地あり  ■■■ */
+@media screen and (max-width:768px) { 
+    h1{
+        font-size:1.5em;
+    }
+    .AKey{
+        font-size: 1em;
+        margin: 2px;
+        width: 30px;
+        height: 30px;
+    }
+}
+@media screen and (min-width:768px) { 
+    .AKey{
+        font-size: 1.5em;
+        margin: 3px;
+        width: 60px;
+        height: 60px;
+    }
+    .double{
+        width: 120px;
+    }
+}
+/* ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑  ソフトキーボード */
+
+/* ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓  出題画面 */
+/* ■■■■■■■■■■■■  高さ  ■■■■■■■■■■■■ */
+#QuizWrapper{
+    height: 330px;
+}
+/* ■■■■■■■■■■■■  出題文  ■■■■■■■■■■■■ */
+#Question {
+    position:relative;
+}
+/* ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑  出題画面 */
+
+/* ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓  設定画面 */
+/* ■■■■■■■■■■■■  問題一覧  ■■■■■■■■■■■■ */
+/* ■■■  チェックボックスを非表示に  ■■■ 
+label input[type=checkbox] {
+    display: none;
+}*/
+/* ■■■  ブロック表示  ■■■ */
+.OptionsLabel{
+    background:var(--Monokai-CM);
+    color:var(--Monokai-FG);
+    border:2px solid rgba(0,0,0,0.08);
+    border-radius:4px;
+    
+    align-items:center;
+    align-content:center;
+
+    cursor:pointer;
+    transition:0.1s;
+}
+/* ■■■  選択されている  ■■■ */
+#Setting .active {
+    transform:translateY(1px);
+    color:var(--Monokai-CM);
+    background:var(--Monokai-G);
+    box-shadow:0 1px 0 #000;
+}
+
+.OptionWrapper{
+    border-top:1px solid var(--Monokai-CM);
+    border-bottom:1px solid var(--Monokai-CM);
+    border-radius: 25px;
+    margin-bottom: 25px;
+    padding-top: 10px;
+}
+
+/* ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑  設定画面 */
+
+
+/* ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓  色  */
+.C-DARK{
+    background:var(--Monokai-BG);
+    color:var(--Monokai-FG);
+}
+nav.C-DARK{
+    border-top:1px solid var(--Monokai-FG);
+}
+.T-SUCCESS{
+    color:var(--Monokai-B);
+}
+.T-DANGER{
+    color:var(--Monokai-R);
+}
+.T-COMMENT{
+    color:var(--Monokai-CM);
+}
+
+/* ボタン */
+.BC-SUCCESS{
+    border:1px solid var(--Monokai-G);
+    background:var(--Monokai-BG);
+    color:var(--Monokai-FG);
+}
+.BC-SUCCESS:hover,
+.BC-SUCCESS:active{
+    border:1px solid var(--Monokai-G);
+    background:var(--Monokai-G);
+    color:var(--Monokai-BG);
+}
+
+.BC-DANGER{
+    border:1px solid var(--Monokai-R);
+    background:var(--Monokai-BG);
+    color:var(--Monokai-FG);
+}
+.BC-DANGER:hover,
+.BC-DANGER:active{
+    border:1px solid var(--Monokai-R);
+    background:var(--Monokai-R);
+    color:var(--Monokai-BG);
+}
+.BC-OPTION{
+    border:1px solid var(--Monokai-B);
+    background:var(--Monokai-BG);
+    color:var(--Monokai-FG);
+}
+.BC-OPTION:hover,
+.BC-OPTION:active{
+    border:1px solid var(--Monokai-B);
+    background:var(--Monokai-B);
+    color:var(--Monokai-BG);
+}
+.BC-ORANGE{
+    border:1px solid var(--Monokai-O);
+    background:var(--Monokai-BG);
+    color:var(--Monokai-FG);
+}
+.BC-ORANGE:hover,
+.BC-ORANGE:active{
+    border:1px solid var(--Monokai-O);
+    background:var(--Monokai-O);
+    color:var(--Monokai-BG);
+}
+.C-FORM, .C-FORM:active,.C-FORM:hover,.C-FORM:focus{
+    border:1px solid var(--Monokai-FG);
+    background:var(--Monokai-BG);
+    color:var(--Monokai-FG);
+}
+.C-RDONLY, .C-RDONLY:active,.C-RDONLY:hover,.C-RDONLY:focus, .C-RDONLY:read-only{
+    border:1px solid var(--Monokai-CM);
+    background:var(--Monokai-BG);
+    color:var(--Monokai-CM);
+}
+
+
+#TYPE_WORD{
+    color: var(--Monokai-FG);
+    position:relative;
+}
+
+
+#TYPE_DESC{
+    color: var(--Monokai-CM);
+}
+
+.CURRENT{
+    color: var(--Monokai-BG);
+    background-color:  var(--Monokai-FG);
+    text-decoration: underline;
+}
+.NOT-TYPED{
+    color: var(--Monokai-CM);
+}
+.TYPED{
+    color: var(--Monokai-FG);
+}
+.WRONG{
+    color: var(--Monokai-BG);
+    background-color:  var(--Monokai-R);
+}

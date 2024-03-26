@@ -1,0 +1,30 @@
+{
+    "Quiz": [
+        {
+            "word": "sentiō",
+            "desc": "Singular-1st"
+        },
+        {
+            "word": "sentīs",
+            "desc": "Singular-2nd"
+        },
+        {
+            "word": "sentit",
+            "desc": "Singular-3rd"
+        },
+        {
+            "word": "sentīmus",
+            "desc": "Plural-1st"
+        },
+        {
+            "word": "sentītis",
+            "desc": "Plural-2nd"
+        },
+        {
+            "word": "sentiunt",
+            "desc": "Plural-3rd"
+        }
+    ],
+    "Hint":"LAT_V_4",
+    "Base":"senti"
+}

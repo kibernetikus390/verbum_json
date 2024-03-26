@@ -1,0 +1,54 @@
+{
+    "Quiz": [
+        {
+            "word": "писа́тель",
+            "desc": "Singular-Nom."
+        },
+        {
+            "word": "писа́теля",
+            "desc": "Singular-Accusative."
+        },
+        {
+            "word": "писа́теля",
+            "desc": "Singular-Genitive."
+        },
+        {
+            "word": "писа́телю",
+            "desc": "Singular-Dative."
+        },
+        {
+            "word": "писа́телем",
+            "desc": "Singular-Instr."
+        },
+        {
+            "word": "писа́теле",
+            "desc": "Singular-Prepos."
+        },
+        {
+            "word": "писа́тели",
+            "desc": "Plural-Nom."
+        },
+        {
+            "word": "писа́телей",
+            "desc": "Plural-Accusative."
+        },
+        {
+            "word": "писа́телей",
+            "desc": "Plural-Genitive."
+        },
+        {
+            "word": "писа́телям",
+            "desc": "Plural-Dative."
+        },
+        {
+            "word": "писа́телями",
+            "desc": "Plural-Instr."
+        },
+        {
+            "word": "писа́телях",
+            "desc": "Plural-Prepos."
+        }
+    ],
+    "Hint":"RUS_N_2_M",
+    "Base":"писа́тел"
+}

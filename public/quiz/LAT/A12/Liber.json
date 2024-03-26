@@ -1,0 +1,150 @@
+{
+    "Quiz": [
+        {
+            "word": "līber",
+            "desc": "Masc.-Singular-Nom."
+        },
+        {
+            "word": "līber",
+            "desc": "Masc.-Singular-Voc."
+        },
+        {
+            "word": "līberum",
+            "desc": "Masc.-Singular-Acc."
+        },
+        {
+            "word": "līberī",
+            "desc": "Masc.-Singular-Gen."
+        },
+        {
+            "word": "līberō",
+            "desc": "Masc.-Singular-Dat."
+        },
+        {
+            "word": "līberō",
+            "desc": "Masc.-Singular-Abl."
+        },
+        {
+            "word": "līberī",
+            "desc": "Masc.-Plural-Nom."
+        },
+        {
+            "word": "līberī",
+            "desc": "Masc.-Plural-Voc."
+        },
+        {
+            "word": "līberōs",
+            "desc": "Masc.-Plural-Acc."
+        },
+        {
+            "word": "līberōrum",
+            "desc": "Masc.-Plural-Gen."
+        },
+        {
+            "word": "līberīs",
+            "desc": "Masc.-Plural-Dat."
+        },
+        {
+            "word": "līberīs",
+            "desc": "Masc.-Plural-Abl."
+        },
+        {
+            "word": "lībera",
+            "desc": "Fem.-Singular-Nom."
+        },
+        {
+            "word": "lībera",
+            "desc": "Fem.-Singular-Voc."
+        },
+        {
+            "word": "līberam",
+            "desc": "Fem.-Singular-Acc."
+        },
+        {
+            "word": "līberae",
+            "desc": "Fem.-Singular-Gen."
+        },
+        {
+            "word": "līberae",
+            "desc": "Fem.-Singular-Dat."
+        },
+        {
+            "word": "līberā",
+            "desc": "Fem.-Singular-Abl."
+        },
+        {
+            "word": "līberae",
+            "desc": "Fem.-Plural-Nom."
+        },
+        {
+            "word": "līberae",
+            "desc": "Fem.-Plural-Voc."
+        },
+        {
+            "word": "līberās",
+            "desc": "Fem.-Plural-Acc."
+        },
+        {
+            "word": "līberārum",
+            "desc": "Fem.-Plural-Gen."
+        },
+        {
+            "word": "līberīs",
+            "desc": "Fem.-Plural-Dat."
+        },
+        {
+            "word": "līberīs",
+            "desc": "Fem.-Plural-Abl."
+        },
+        {
+            "word": "līberum",
+            "desc": "Neut.-Singular-Nom."
+        },
+        {
+            "word": "līberum",
+            "desc": "Neut.-Singular-Voc."
+        },
+        {
+            "word": "līberum",
+            "desc": "Neut.-Singular-Acc."
+        },
+        {
+            "word": "līberī",
+            "desc": "Neut.-Singular-Gen."
+        },
+        {
+            "word": "līberō",
+            "desc": "Neut.-Singular-Dat."
+        },
+        {
+            "word": "līberō",
+            "desc": "Neut.-Singular-Abl."
+        },
+        {
+            "word": "lībera",
+            "desc": "Neut.-Plural-Nom."
+        },
+        {
+            "word": "lībera",
+            "desc": "Neut.-Plural-Voc."
+        },
+        {
+            "word": "lībera",
+            "desc": "Neut.-Plural-Acc."
+        },
+        {
+            "word": "līberōrum",
+            "desc": "Neut.-Plural-Gen."
+        },
+        {
+            "word": "līberīs",
+            "desc": "Neut.-Plural-Dat."
+        },
+        {
+            "word": "līberis̄",
+            "desc": "Neut.-Plural-Abl."
+        }
+    ],
+    "Hint":"LAT_I_II",
+    "Base":"liber"
+}

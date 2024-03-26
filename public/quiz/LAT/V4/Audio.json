@@ -1,0 +1,30 @@
+{
+    "Quiz": [
+        {
+            "word": "audiō",
+            "desc": "Singular-1st"
+        },
+        {
+            "word": "audīs",
+            "desc": "Singular-2nd"
+        },
+        {
+            "word": "audit",
+            "desc": "Singular-3rd"
+        },
+        {
+            "word": "audīmus",
+            "desc": "Plural-1st"
+        },
+        {
+            "word": "audītis",
+            "desc": "Plural-2nd"
+        },
+        {
+            "word": "audiunt",
+            "desc": "Plural-3rd"
+        }
+    ],
+    "Hint":"LAT_V_4",
+    "Base":"audi"
+}

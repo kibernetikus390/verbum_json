@@ -1,0 +1,86 @@
+{
+    "Quiz": [
+        {
+            "word": "vetus",
+            "desc": "Masc.Fem.-Singular-Nom.Voc."
+        },
+        {
+            "word": "veterum",
+            "desc": "Masc.Fem.-Singular-Acc."
+        },
+        {
+            "word": "veteris",
+            "desc": "Masc.Fem.-Singular-Gen."
+        },
+        {
+            "word": "veterī",
+            "desc": "Masc.Fem.-Singular-Dat."
+        },
+        {
+            "word": "veterī",
+            "desc": "Masc.Fem.-Singular-Abl."
+        },
+        {
+            "word": "veterēs",
+            "desc": "Masc.Fem.-Plural-Nom.Voc."
+        },
+        {
+            "word": "veterēs",
+            "desc": "Masc.Fem.-Plural-Acc."
+        },
+        {
+            "word": "veterum",
+            "desc": "Masc.Fem.-Plural-Gen."
+        },
+        {
+            "word": "veteribus",
+            "desc": "Masc.Fem.-Plural-Dat."
+        },
+        {
+            "word": "veteribus",
+            "desc": "Masc.Fem.-Plural-Abl."
+        },
+        {
+            "word": "vetus",
+            "desc": "Neut.-Singular-Nom.Voc."
+        },
+        {
+            "word": "vetus",
+            "desc": "Neut.-Singular-Acc."
+        },
+        {
+            "word": "veteris",
+            "desc": "Neut.-Singular-Gen."
+        },
+        {
+            "word": "veterī",
+            "desc": "Neut.-Singular-Dat."
+        },
+        {
+            "word": "veterī",
+            "desc": "Neut.-Singular-Abl."
+        },
+        {
+            "word": "vetera",
+            "desc": "Neut.-Plural-Nom.Voc."
+        },
+        {
+            "word": "vetera",
+            "desc": "Neut.-Plural-Acc."
+        },
+        {
+            "word": "veterum",
+            "desc": "Neut.-Plural-Gen."
+        },
+        {
+            "word": "veteribus",
+            "desc": "Neut.-Plural-Dat."
+        },
+        {
+            "word": "veteribus",
+            "desc": "Neut.-Plural-Abl."
+        }
+    ],
+    "Hint":"LAT_III",
+    "Base":"vet"
+}

@@ -1,0 +1,101 @@
+{
+    "Quiz": [
+        {
+            "word": "мой",
+            "desc": "Masc.-Nominative"
+        },
+        {
+            "word": "мой or моего",
+            "desc": "Masc.-Accusative"
+        },
+        {
+            "word": "моего",
+            "desc": "Masc.-Genitive"
+        },
+        {
+            "word": "моему",
+            "desc": "Masc.-Dative"
+        },
+        {
+            "word": "моим",
+            "desc": "Masc.-Instrumental"
+        },
+        {
+            "word": "моём",
+            "desc": "Masc.-Prepositional"
+        },
+        {
+            "word": "моё",
+            "desc": "Neut.-Nominative"
+        },
+        {
+            "word": "моё",
+            "desc": "Neut.-Accusative"
+        },
+        {
+            "word": "моего",
+            "desc": "Neut.-Genitive"
+        },
+        {
+            "word": "моему",
+            "desc": "Neut.-Dative"
+        },
+        {
+            "word": "моим",
+            "desc": "Neut.-Instrumental"
+        },
+        {
+            "word": "моём",
+            "desc": "Neut.-Prepositional"
+        },
+        {
+            "word": "моя",
+            "desc": "Fem.-Nominative"
+        },
+        {
+            "word": "мою",
+            "desc": "Fem.-Accusative"
+        },
+        {
+            "word": "моей",
+            "desc": "Fem.-Genitive"
+        },
+        {
+            "word": "моей",
+            "desc": "Fem.-Dative"
+        },
+        {
+            "word": "моей",
+            "desc": "Fem.-Instrumental"
+        },
+        {
+            "word": "моей",
+            "desc": "Fem.-Prepositional"
+        },
+        {
+            "word": "мои",
+            "desc": "Plural-Nominative"
+        },
+        {
+            "word": "мои or моих",
+            "desc": "Plural-Accusative"
+        },
+        {
+            "word": "моих",
+            "desc": "Plural-Genitive"
+        },
+        {
+            "word": "моим",
+            "desc": "Plural-Dative"
+        },
+        {
+            "word": "моими",
+            "desc": "Plural-Instrumental"
+        },
+        {
+            "word": "моих",
+            "desc": "Plural-Prepositional"
+        }
+    ],
+    "Hint":"RUS_P_MY"
+}

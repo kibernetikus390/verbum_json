@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <title>Declention & Conjugation Trainer</title>
+        <script src="https://code.jquery.com/jquery-3.4.1.js" integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU=" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/howler/2.1.3/howler.js"></script>
+        <script src="https://kit.fontawesome.com/85dd507d33.js" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+        <link rel="stylesheet" href="/Language.css" type="text/css" />
+        <script type="module" src="/Language.js" async></script>
+    </head>
+    <body>
+        <!-- Whole Wrapper -->
+        <div class="container mt-3">
+            
+        <!--  Setting -->
+        <div id="SettingWrapper" class="jumbotron C-DARK">
+            <form id="Setting" class="px-5" name="Setting">
+                <h1>Declention & Conjugation Trainer</h1>
+                <hr class="style-eight">
+                <h1 align="left" onclick=' $("#Latin").slideToggle() '><i class="fas fa-list-ul"></i> Latin</h1>
+                <div id="Latin">
+                    <div class="OptionWrapper">
+                        <h3>Noun I (-ae)</h3>
+                        <div class="form-group row justify-content-center" align="center">
+                            <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="LAT-N1-Puella">puella f.<br>(a girl)</label>
+                        </div>
+                    </div>
+                    <div class="OptionWrapper">
+                        <h3>Noun II (-ī)</h3>
+                        <div class="form-group row justify-content-center" align="center">
+                            <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="LAT-N2-Amicus">amicus m.<br>(a friend)</label>
+                            <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="LAT-N2-Verbum">verbum n.<br>(a word)</label>
+                        </div>
+                    </div>
+                    <div class="OptionWrapper">
+                        <h3>Noun II (-ī) exception</h3>
+                        <div class="form-group row justify-content-center" align="center">
+                            <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="LAT-N2-Puer">puer m.<br>(a boy)</label>
+                            <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="LAT-N2-Ager">ager m.<br>(a farm)</label>
+                            <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="LAT-N2-Deus">deus m.<br>(god)</label>
+                        </div>
+                    </div>
+                    <div class="OptionWrapper">
+                        <h3>Noun III(-is)</h3>
+                        <div class="form-group row justify-content-center" align="center">
+                            <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="LAT-N3-Homo">homō c.<br>(a human 子幹)</label>
+                            <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="LAT-N3-Genus">genus n.<br>(a sort 子幹)</label>
+                            <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="LAT-N3-Ignis">ignis m.<br>(a fire i幹)</label>
+                            <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="LAT-N3-Animal">animal n.<br>(a animal i幹)</label>
+                        </div>
+                    </div>
+                    <div class="OptionWrapper">
+                        <h3>Noun IV(-ūs)</h3>
+                        <div class="form-group row justify-content-center" align="center">
+                            <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="LAT-N4-Fructus">fructus m.<br>(a fruit)</label>
+                            <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="LAT-N4-Portus">portus m.<br>(a harbor)</label>
+                            <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="LAT-N4-Cornu">nornū n.<br>(a horn)</label>
+                        </div>
+                    </div>
+                    <div class="OptionWrapper">
+                        <h3>Noun V(-eī)</h3>
+                        <div class="form-group row justify-content-center" align="center">
+                            <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="LAT-N5-Res">rēs f.<br>(a thing)</label>
+                            <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="LAT-N5-Dies">diēs m.<br>(a sun)</label>
+                        </div>
+                    </div>
+                    <div class="OptionWrapper">
+                        <h3>Adj I II (-ae -ī)</h3>
+                        <div class="form-group row justify-content-center" align="center">
+                            <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="LAT-A12-Bonus">bonus -a -um<br>(good)</label>
+                            <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="LAT-A12-Liber">liber -era -erum<br>(free)</label>
+                            <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="LAT-A12-Niger">niger -gra -grum<br>(black)</label>
+                        </div>
+                    </div>
+                    <div class="OptionWrapper">
+                        <h3>Adj III</h3>
+                        <div class="form-group row justify-content-center" align="center">
+                            <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="LAT-A3-Sapiens">sapiens, -entis<br>(clever)</label>
+                            <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="LAT-A3-Omnis">omnis, -e<br>(whole)</label>
+                            <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="LAT-A3-Acer">acer, -cris, -cre<br>(sharp)</label>
+                            <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="LAT-A3-Vetus">vetus, -eris<br>(old)</label>
+                        </div>
+                    </div>
+                    <div class="OptionWrapper">
+                        <h3>Verb</h3>
+                        <div class="form-group row justify-content-center" align="center">
+                            <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="LAT-V-Do">dō dare<br>(to give)</label>
+                            <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="LAT-V-Sum">sum esse<br>(to be)</label>
+                            <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="LAT-V-Sum^past">sum esse<br>(Ind.Imperfect)</label>
+                            <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="LAT-V-Sum^future">sum esse<br>(Ind.Future)</label>
+                            <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="LAT-V-Sum^perfect">sum esse<br>(Ind.Perfect)</label>
+                            <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="LAT-V-Sum^pastperfect">sum esse<br>(Ind.PastPerfect)</label>
+                            <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="LAT-V-Sum^futureperfect">sum esse<br>(Ind.FuturePerfect)</label>
+                            <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="LAT-V-Sum^SUB^pre">sum esse<br>(Sub.Present)</label>
+                            <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="LAT-V-Sum^SUB^past">sum esse<br>(Sub.Past)</label>
+                            <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="LAT-V-Sum^SUB^perfect">sum esse<br>(Sub.Perfect)</label>
+                            <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="LAT-V-Sum^SUB^pastperfect">sum esse<br>(Sub.PastPerfect)</label>
+                        </div>
+                    </div>
+                        <div class="OptionWrapper">
+                        <h3>Verb I (-āre)</h3>
+                        <div class="form-group row justify-content-center" align="center">
+                            <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="LAT-V1-Amo">amō -āre<br>(to love)</label>
+                        </div>
+                    </div>
+                        <div class="OptionWrapper">
+                        <h3>Verb II (-̄ere)</h3>
+                        <div class="form-group row justify-content-center" align="center">
+                            <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="LAT-V2-Video">videō -ēre<br>(to see)</label>
+                            <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="LAT-V2-Lateo">lateō -̄ere<br>(to hide)</label>
+                            <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="LAT-V2-Maneo">maneō -̄ere<br>(to stay)</label>
+                            <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="LAT-V2-Taceo">taceō -̄ere<br>(to silent)</label>
+                        </div>
+                    </div>
+                    <div class="OptionWrapper">
+                        <h3>Verb III(-ere)</h3>
+                        <div class="form-group row justify-content-center" align="center">
+                            <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="LAT-V3-Ago">agō -ere<br>(to do)</label>
+                            <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="LAT-V3-Dico">dīcō -ere<br>(to say)</label>
+                            <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="LAT-V3-Disco">discō -ere<br>(to learn)</label>
+                            <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="LAT-V3-Vivo">vīvō -ere<br>(to live)</label>
+                        </div>
+                        <div class="form-group row justify-content-center" align="center">
+                            <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="LAT-V3-Capio">capiō -ere(B)<br>(to catch)</label>
+                            <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="LAT-V3-Cupio">cupiō -ere(B)<br>(to want)</label>
+                            <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="LAT-V3-Facio">faciō -ere(B)<br>(to do)</label>
+                            <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="LAT-V3-Fugio">fugiō -ere(B)<br>(to flee)</label>
+                        </div>
+                    </div>
+                    <div class="OptionWrapper">
+                        <h3>Verb IV(-īre)</h3>
+                        <div class="form-group row justify-content-center" align="center">
+                            <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="LAT-V4-Audio">audiō -īre<br>(to listen)</label>
+                            <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="LAT-V4-Scio">sciō -īre<br>(to know)</label>
+                            <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="LAT-V4-Sentio">sentiō -īre<br>(to sence)</label>
+                            <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="LAT-V4-Venio">veniō -īre<br>(to come)</label>
+                        </div>
+                    </div>
+                </div>
+                <hr class="style-eight">
+                <h1 align="left" onclick=' $("#Russian").slideToggle() '><i class="fas fa-list-ul"></i> Russian</h1>
+                <div id="Russian">
+                    <h3>Noun I (F)</h3>
+                    <div class="form-group row justify-content-center" align="center">
+                        <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="RUS-N1-Rabota">работа<br>(a job) </label>
+                        <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="RUS-N1-Banya">баня<br>(a bathhouse) </label>
+                        <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="RUS-N1-Kniga">книга<br>(a book) </label>
+                        <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="RUS-N1-Liniya">линия<br>(a line) </label>
+                    </div>
+                    <h3>Noun II (M)</h3>
+                    <div class="form-group row justify-content-center">
+                        <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="RUS-N2-Filim">фильм<br>(film) </label>
+                        <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="RUS-N2-Pisatiel">писатель<br>(writer) </label>
+                        <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="RUS-N2-Geroi">герой<br>(Hero) </label>
+                        <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="RUS-N2-Kommentarii">комментарий<br>(a Comment)  </label>
+                    </div>
+                    <h3>Noun II (N)</h3>
+                    <div class="form-group row justify-content-center">
+                        <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="RUS-N2-Miesta">место<br>(a place)</label>
+                        <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="RUS-N2-Morie">море<br>(a sea)</label>
+                        <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="RUS-N2-Zdanie">здание<br>(a building)</label>
+                    </div>
+                    <h3>Noun III</h3>
+                    <div class="form-group row justify-content-center">
+                        <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="RUS-N3-Kost">кость<br>(a bone)</label>
+                        <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="RUS-N3-Muish">мышь<br>(a mouse)</label>
+                        <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="RUS-N3-Imiya">имя<br>(a name)</label>
+                    </div>
+                    <h3>Adjective</h3>
+                    <div class="form-group row justify-content-center">
+                        <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="RUS-A-Novii">новый<br>(new)</label>
+                        <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="RUS-A-Sinii">синий<br>(blue)</label>
+                    </div>
+                    <h3>Pronouns</h3>
+                    <div class="form-group row justify-content-center">
+                        <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="RUS-Pro-Personal">Personal</label>
+                        <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="RUS-Pro-This">этот<br>This</label>
+                        <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="RUS-Pro-That">тот<br>That</label>
+                    </div>
+                    <div class="form-group row justify-content-center">
+                        <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="RUS-Pro-My">мой<br>my</label>
+                        <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="RUS-Pro-YourSing">твой<br>your(Sing.)</label>
+                        <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="RUS-Pro-Ones">свой<br>one's</label>
+                        <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="RUS-Pro-Our">наш<br>our</label>
+                        <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="RUS-Pro-YourPlu">ваш<br>your(Plu.)</label>
+                        <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="RUS-Pro-WhoWhat">кто,что<br>Who,What</label>
+                        <label class="col my-2 mx-3 OptionsLabel"><input name="Options" type="checkbox" value="RUS-Pro-Whose">чей<br>Whose</label>
+                    </div>
+                </div>
+                <hr class="style-eight">
+                <nav class="navbar fixed-bottom navbar-dark C-DARK" align="right">
+                    <div class="form-inline ml-auto my-2 ">
+                        <input id="SelectedListsNames" class="form-control mr-2 C-RDONLY" type="text" placeholder="Nothing selected" readonly>
+                        <select name="Order" class="form-control mr-2 C-FORM">
+                            <option value="Ordered">Ordered</option>
+                            <option value="Random">Random</option>
+                        </select>
+                        <select name="Type" class="form-control mr-2 C-FORM">
+                            <option value="QWordSelecting">Q単語-A格 選択</option>
+                            <option value="AWordSelecting">Q格-A単語 選択</option>
+                            <option value="AWordTyping">Q格-A単語 タイピング</option>
+                        </select>
+                        <div class="input-group-prepend">
+                            <span class="input-group-text C-RDONLY" id="basic-addon1">Num:</span>
+                        </div>
+                        <input type="number" name="QuizNums" class="form-control mr-2 C-FORM" value="0" min="0">
+                        <label for="FillRoot">Autofill root:</label>
+                        <input type="checkbox" class="form-check-input mx-1" id="FillRoot" checked>
+                        <input id="StartButton" name="submit" type="button" class="btn BC-SUCCESS btn-lg mr-2" value="Start">
+                        <input id="ResetButton" name="submit" type="button" class="btn BC-DANGER btn-lg" value="Reset">
+                    </div>
+                </nav>
+            </form>
+        </div>
+        
+        <!--  Quiz -->
+        <div id="QuizWrapper" class="jumbotron px-2 pt-0 C-DARK" style="display:none">
+            <!--  Exit Icon -->
+            <div class="clearfix">
+                <div id="ExitWrapper" class="sticky-top float-right" style="display:none">
+                    <div id="HintButton" class="btn btn-dark btn-md mt-2 mr-2" data-toggle="popover" data-html="true" data-placement="bottom" data-content="">？</div>
+                    <div id="ExitButton" class="btn btn-dark btn-md mt-2 mr-2">X</div>
+                </div>
+            </div>
+            <h1 id="Question">Question</h1>
+            <p id="Progress">Progress</p>
+            <h2 id="Answer">Answer</h2>
+            <div id="NextButton" class="btn btn-primary btn-lg" style="display:none">Next</div>
+        </div>
+        
+        <!--  Result -->
+        <div id="Result" class="jumbotron C-DARK" align="center" style="display:none">
+            <h1 id="CorrectRatio"></h1>
+            <div id="WrongAnswers" class="row justify-content-center"></div>
+            <nav class="navbar fixed-bottom navbar-dark C-DARK" align="right">
+                <div id="RetryButton"       class="btn ml-auto mr-2 my-auto btn-lg BC-DANGER">Retry All</div>
+                <div id="RetryMissedButton" class="btn mx-2 my-auto btn-lg BC-ORANGE">Retry Missed</div>
+                <div id="HomeButton"        class="btn mr-auto ml-2 my-auto btn-lg BC-SUCCESS">Home</div>
+            </nav>
+        </div>
+        
+        <!--  Interface -->
+        <div id="InterfaceWrapper" style="display:none">
+            <div id="Keyboard" ></div>
+            
+            <div id="Option">
+                <!--  Selections -->
+                <div class=" row justify-content-center" align="center">
+                    <div id="Option0" class="col-5 my-2 mx-3 btn BC-OPTION">Selection0</div>
+                    <div id="Option1" class="col-5 my-2 mx-3 btn BC-OPTION">Selection1</div>
+                </div>
+                <div class=" row justify-content-center" align="center">
+                    <div id="Option2" class="col-5 my-2 mx-3 btn BC-OPTION">Selection2</div>
+                    <div id="Option3" class="col-5 my-2 mx-3 btn BC-OPTION">Selection3</div>
+                </div>
+            </div>
+        </div>
+        
+    </body>
+</html>

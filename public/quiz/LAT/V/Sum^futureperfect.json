@@ -1,0 +1,29 @@
+{
+    "Quiz": [
+        {
+            "word": "fuerō",
+            "desc": "Ind.FuturePerfect.Singular-1st"
+        },
+        {
+            "word": "fueris",
+            "desc": "Ind.FuturePerfect.Singular-2nd"
+        },
+        {
+            "word": "fuerit",
+            "desc": "Ind.FuturePerfect.Singular-3rd"
+        },
+        {
+            "word": "fuerimus",
+            "desc": "Ind.FuturePerfect.Plural-1st"
+        },
+        {
+            "word": "fueritis",
+            "desc": "Ind.FuturePerfect.Plural-2nd"
+        },
+        {
+            "word": "fuerint",
+            "desc": "Ind.FuturePerfect.Plural-3rd"
+        }
+    ],
+    "Hint":"LAT_V"
+}

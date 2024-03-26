@@ -1,0 +1,101 @@
+{
+    "Quiz": [
+        {
+            "word": "ваш",
+            "desc": "Masc.-Nominative"
+        },
+        {
+            "word": "ваш or ва́шего",
+            "desc": "Masc.-Accusative"
+        },
+        {
+            "word": "ва́шего",
+            "desc": "Masc.-Genitive"
+        },
+        {
+            "word": "ва́шему",
+            "desc": "Masc.-Dative"
+        },
+        {
+            "word": "ва́шим",
+            "desc": "Masc.-Instrumental"
+        },
+        {
+            "word": "ва́шем",
+            "desc": "Masc.-Prepositional"
+        },
+        {
+            "word": "ва́ше",
+            "desc": "Neut.-Nominative"
+        },
+        {
+            "word": "ва́ше",
+            "desc": "Neut.-Accusative"
+        },
+        {
+            "word": "ва́шего",
+            "desc": "Neut.-Genitive"
+        },
+        {
+            "word": "ва́шему",
+            "desc": "Neut.-Dative"
+        },
+        {
+            "word": "ва́шим",
+            "desc": "Neut.-Instrumental"
+        },
+        {
+            "word": "ва́шем",
+            "desc": "Neut.-Prepositional"
+        },
+        {
+            "word": "ва́ша",
+            "desc": "Fem.-Nominative"
+        },
+        {
+            "word": "ва́шу",
+            "desc": "Fem.-Accusative"
+        },
+        {
+            "word": "ва́шей",
+            "desc": "Fem.-Genitive"
+        },
+        {
+            "word": "ва́шей",
+            "desc": "Fem.-Dative"
+        },
+        {
+            "word": "ва́шей",
+            "desc": "Fem.-Instrumental"
+        },
+        {
+            "word": "ва́шей",
+            "desc": "Fem.-Prepositional"
+        },
+        {
+            "word": "ва́ши",
+            "desc": "Plural-Nominative"
+        },
+        {
+            "word": "ва́ши orвна́ших",
+            "desc": "Plural-Accusative"
+        },
+        {
+            "word": "ва́ших",
+            "desc": "Plural-Genitive"
+        },
+        {
+            "word": "ва́шим",
+            "desc": "Plural-Dative"
+        },
+        {
+            "word": "ва́шими",
+            "desc": "Plural-Instrumental"
+        },
+        {
+            "word": "ва́ших",
+            "desc": "Plural-Prepositional"
+        }
+    ],
+    "Hint":"RUS_P_OUR"
+}

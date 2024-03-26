@@ -1,0 +1,30 @@
+{
+    "Quiz": [
+        {
+            "word": "maneō",
+            "desc": "Singular-1st"
+        },
+        {
+            "word": "manēs",
+            "desc": "Singular-2nd"
+        },
+        {
+            "word": "manet",
+            "desc": "Singular-3rd"
+        },
+        {
+            "word": "manēmus",
+            "desc": "Plural-1st"
+        },
+        {
+            "word": "manētis",
+            "desc": "Plural-2nd"
+        },
+        {
+            "word": "manent",
+            "desc": "Plural-3rd"
+        }
+    ],
+    "Hint":"LAT_V_2",
+    "Base":"mane"
+}

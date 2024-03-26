@@ -1,0 +1,150 @@
+{
+    "Quiz": [
+        {
+            "word": "niger",
+            "desc": "Masc.-Singular-Nom."
+        },
+        {
+            "word": "niger",
+            "desc": "Masc.-Singular-Voc."
+        },
+        {
+            "word": "nigrum",
+            "desc": "Masc.-Singular-Acc."
+        },
+        {
+            "word": "nigrī",
+            "desc": "Masc.-Singular-Gen."
+        },
+        {
+            "word": "nigrō",
+            "desc": "Masc.-Singular-Dat."
+        },
+        {
+            "word": "nigrō",
+            "desc": "Masc.-Singular-Abl."
+        },
+        {
+            "word": "nigrī",
+            "desc": "Masc.-Plural-Nom."
+        },
+        {
+            "word": "nigrī",
+            "desc": "Masc.-Plural-Voc."
+        },
+        {
+            "word": "nigrōs",
+            "desc": "Masc.-Plural-Acc."
+        },
+        {
+            "word": "nigrōrum",
+            "desc": "Masc.-Plural-Gen."
+        },
+        {
+            "word": "nigrīs",
+            "desc": "Masc.-Plural-Dat."
+        },
+        {
+            "word": "nigrīs",
+            "desc": "Masc.-Plural-Abl."
+        },
+        {
+            "word": "nigra",
+            "desc": "Fem.-Singular-Nom."
+        },
+        {
+            "word": "nigra",
+            "desc": "Fem.-Singular-Voc."
+        },
+        {
+            "word": "nigram",
+            "desc": "Fem.-Singular-Acc."
+        },
+        {
+            "word": "nigrae",
+            "desc": "Fem.-Singular-Gen."
+        },
+        {
+            "word": "nigrae",
+            "desc": "Fem.-Singular-Dat."
+        },
+        {
+            "word": "nigrā",
+            "desc": "Fem.-Singular-Abl."
+        },
+        {
+            "word": "nigrae",
+            "desc": "Fem.-Plural-Nom."
+        },
+        {
+            "word": "nigrae",
+            "desc": "Fem.-Plural-Voc."
+        },
+        {
+            "word": "nigrās",
+            "desc": "Fem.-Plural-Acc."
+        },
+        {
+            "word": "nigrārum",
+            "desc": "Fem.-Plural-Gen."
+        },
+        {
+            "word": "nigrīs",
+            "desc": "Fem.-Plural-Dat."
+        },
+        {
+            "word": "nigrīs",
+            "desc": "Fem.-Plural-Abl."
+        },
+        {
+            "word": "nigrum",
+            "desc": "Neut.-Singular-Nom."
+        },
+        {
+            "word": "nigrum",
+            "desc": "Neut.-Singular-Voc."
+        },
+        {
+            "word": "nigrum",
+            "desc": "Neut.-Singular-Acc."
+        },
+        {
+            "word": "nigrī",
+            "desc": "Neut.-Singular-Gen."
+        },
+        {
+            "word": "nigrō",
+            "desc": "Neut.-Singular-Dat."
+        },
+        {
+            "word": "nigrō",
+            "desc": "Neut.-Singular-Abl."
+        },
+        {
+            "word": "nigra",
+            "desc": "Neut.-Plural-Nom."
+        },
+        {
+            "word": "nigra",
+            "desc": "Neut.-Plural-Voc."
+        },
+        {
+            "word": "nigra",
+            "desc": "Neut.-Plural-Acc."
+        },
+        {
+            "word": "nigrōrum",
+            "desc": "Neut.-Plural-Gen."
+        },
+        {
+            "word": "nigrīs",
+            "desc": "Neut.-Plural-Dat."
+        },
+        {
+            "word": "nigrīs",
+            "desc": "Neut.-Plural-Abl."
+        }
+    ],
+    "Hint":"LAT_I_II",
+    "Base":"nig"
+}

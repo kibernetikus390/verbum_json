@@ -1,0 +1,69 @@
+{
+    "list" : [
+        {
+            "word" : "ложь",
+            "desc" : "(Nf) lie"
+        },
+        {
+            "word" : "лжи́вый",
+            "desc" : "(Adj) lying, false"
+        },
+        {
+            "word" : "врать, совра́ть",
+            "desc" : "to lie"
+        },
+        {
+            "word" : "лгать, солга́ть",
+            "desc" : "to lie"
+        },
+        {
+            "word" : "пра́вда",
+            "desc" : "(Nf) truth"
+        },
+        {
+            "word" : "согласен",
+            "desc" : "(Adj,Adv) agreeable"
+        },
+        {
+            "word" : "глас",
+            "desc" : "(Nm) voice"
+        },
+        {
+            "word" : "ла́дить, пола́дить",
+            "desc" : "to get along"
+        },
+        {
+            "word" : "ве́рный",
+            "desc" : "(adj) true, right"
+        },
+        {
+            "word" : "ве́ра",
+            "desc" : "(Nf) faith, belief, trust"
+        },
+        {
+            "word" : "ве́рить, пове́рить",
+            "desc" : "(Vi) to believe, trust"
+        },
+        {
+            "word" : "неверный",
+            "desc" : "(Adj) incorrect, unfaithful"
+        },
+        {
+            "word" : "справедли́вый",
+            "desc" : "(Adj) just, fair, true, correct"
+        },
+        {
+            "word" : "че́стный",
+            "desc" : "(Adj) honest, fair"
+        },
+        {
+            "word" : "нече́стный",
+            "desc" : "(Adj) dishonest, unfair"
+        },
+        {
+            "word" : "про́сто",
+            "desc" : "(Adj) simple. basic"
+        }
+    ],
+    "lang" : "RUS"
+}

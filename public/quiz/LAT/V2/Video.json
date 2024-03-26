@@ -1,0 +1,30 @@
+{
+    "Quiz": [
+        {
+            "word": "videō",
+            "desc": "Singular-1st"
+        },
+        {
+            "word": "vidēs",
+            "desc": "Singular-2nd"
+        },
+        {
+            "word": "videt",
+            "desc": "Singular-3rd"
+        },
+        {
+            "word": "vidēmus",
+            "desc": "Plural-1st"
+        },
+        {
+            "word": "vidētis",
+            "desc": "Plural-2nd"
+        },
+        {
+            "word": "vident",
+            "desc": "Plural-3rd"
+        }
+    ],
+    "Hint":"LAT_V_2",
+    "Base":"vide"
+}

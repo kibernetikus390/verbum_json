@@ -1,0 +1,30 @@
+{
+    "Quiz": [
+        {
+            "word": "dīcō",
+            "desc": "Singular-1st"
+        },
+        {
+            "word": "dīcis",
+            "desc": "Singular-2nd"
+        },
+        {
+            "word": "dīcit",
+            "desc": "Singular-3rd"
+        },
+        {
+            "word": "dīcimus",
+            "desc": "Plural-1st"
+        },
+        {
+            "word": "dīcitis",
+            "desc": "Plural-2nd"
+        },
+        {
+            "word": "dīcunt",
+            "desc": "Plural-3rd"
+        }
+    ],
+    "Hint":"LAT_V_3",
+    "Base":"dīc"
+}

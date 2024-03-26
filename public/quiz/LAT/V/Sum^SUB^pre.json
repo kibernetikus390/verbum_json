@@ -1,0 +1,29 @@
+{
+    "Quiz": [
+        {
+            "word": "sim",
+            "desc": "Sub.Present.Singular-1st"
+        },
+        {
+            "word": "sīs",
+            "desc": "Sub.Present.Singular-2nd"
+        },
+        {
+            "word": "sit",
+            "desc": "Sub.Present.Singular-3rd"
+        },
+        {
+            "word": "sīmus",
+            "desc": "Sub.Present.Plural-1st"
+        },
+        {
+            "word": "sītis",
+            "desc": "Sub.Present.Plural-2nd"
+        },
+        {
+            "word": "sint",
+            "desc": "Sub.Present.Plural-3rd"
+        }
+    ],
+    "Hint":"LAT_V"
+}

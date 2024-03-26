@@ -1,0 +1,29 @@
+{
+    "Quiz": [
+        {
+            "word": "eram",
+            "desc": "Ind.Imperfect.Singular-1st"
+        },
+        {
+            "word": "erās",
+            "desc": "Ind.Imperfect.Singular-2nd"
+        },
+        {
+            "word": "erat",
+            "desc": "Ind.Imperfect.Singular-3rd"
+        },
+        {
+            "word": "erāmus",
+            "desc": "Ind.Imperfect.Plural-1st"
+        },
+        {
+            "word": "erātis",
+            "desc": "Ind.Imperfect.Plural-2nd"
+        },
+        {
+            "word": "erant",
+            "desc": "Ind.Imperfect.Plural-3rd"
+        }
+    ],
+    "Hint":"LAT_V"
+}

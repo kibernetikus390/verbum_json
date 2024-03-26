@@ -1,0 +1,46 @@
+{
+    "Quiz": [
+        {
+            "word": "cornū",
+            "desc": "Singular-Nom.Voc."
+        },
+        {
+            "word": "cornū",
+            "desc": "Singular-Accusative"
+        },
+        {
+            "word": "cornūs or cornū",
+            "desc": "Singular-Genitive"
+        },
+        {
+            "word": "cornuī or cornū",
+            "desc": "Singular-Dative"
+        },
+        {
+            "word": "cornū",
+            "desc": "Singular-Ablative"
+        },
+        {
+            "word": "cornua",
+            "desc": "Plural-Nom.Voc."
+        },
+        {
+            "word": "cornua",
+            "desc": "Plural-Accusative"
+        },
+        {
+            "word": "cornuum",
+            "desc": "Plural-Genitive"
+        },
+        {
+            "word": "cornibus",
+            "desc": "Plural-Dative"
+        },
+        {
+            "word": "cornibus",
+            "desc": "Plural-Ablative"
+        }
+    ],
+    "Hint":"LAT_IV",
+    "Base":"corn"
+}

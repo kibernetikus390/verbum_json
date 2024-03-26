@@ -1,0 +1,30 @@
+{
+    "Quiz": [
+        {
+            "word": "fugiō",
+            "desc": "Singular-1st"
+        },
+        {
+            "word": "fugis",
+            "desc": "Singular-2nd"
+        },
+        {
+            "word": "fugit",
+            "desc": "Singular-3rd"
+        },
+        {
+            "word": "fugimus",
+            "desc": "Plural-1st"
+        },
+        {
+            "word": "fugitis",
+            "desc": "Plural-2nd"
+        },
+        {
+            "word": "fugiunt",
+            "desc": "Plural-3rd"
+        }
+    ],
+    "Hint":"LAT_V_3",
+    "Base":"fugi"
+}

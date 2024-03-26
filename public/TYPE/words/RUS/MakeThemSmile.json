@@ -1,0 +1,73 @@
+{
+    "list" : [
+        {
+            "word" : "уверенный",
+            "desc" : "certain; confident; sure"
+        },
+        {
+            "word" : "ты уверен?",
+            "desc" : "are you certain?"
+        },
+        {
+            "word" : "окончательный",
+            "desc" : "final"
+        },
+        {
+            "word" : "это моё окончательное предложение",
+            "desc" : "this is my final offer"
+        },
+        {
+            "word" : "договорились!",
+            "desc" : "it's a deal!"
+        },
+        {
+            "word" : "шаг",
+            "desc" : "step"
+        },
+        {
+            "word" : "каким будет наш следующий шаг?",
+            "desc" : "what’s the next step?"
+        },
+        {
+            "word" : "в каком смысле?",
+            "desc" : "in what sense?"
+        },
+        {
+            "word" : "простой",
+            "desc" : "simple; easy"
+        },
+        {
+            "word" : "это не так просто",
+            "desc" : "it isn't that simple"
+        },
+        {
+            "word" : "сложный",
+            "desc" : "hard; difficult; complicated"
+        },
+        {
+            "word" : "насколько",
+            "desc" : "how; as far as"
+        },
+        {
+            "word" : "насколько сложно это может быть?",
+            "desc" : "how hard can it be?"
+        },
+        {
+            "word" : "мнение,
+            "desc" : "opinion"
+        },
+        {
+            "word" : "какое у тебя мнение?,
+            "desc" : "what’s your opinion?"
+        },
+        {
+            "word" : "дело",
+            "desc" : "affair; doing; concern"
+        },
+        {
+            "word" : "это не твоё дело",
+            "desc" : "this is none of your concern"
+        }
+    ],
+    "lang" : "RUS"
+}

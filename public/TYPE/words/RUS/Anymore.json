@@ -1,0 +1,29 @@
+{
+    "list" : [
+        {
+            "word" : "бизнес",
+            "desc" : "business"
+        },
+        {
+            "word" : "в молодости",
+            "desc" : "in youth; when ... young"
+        },
+        {
+            "word" : "учить",
+            "desc" : "to teach"
+        },
+        {
+            "word" : "успешный",
+            "desc" : "successful"
+        },
+        {
+            "word" : "раньше",
+            "desc" : "before"
+        },
+        {
+            "word" : "а теперь нет",
+            "desc" : "... but not anymore"
+        }
+    ],
+    "lang" : "RUS"
+}

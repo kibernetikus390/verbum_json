@@ -1,0 +1,30 @@
+{
+    "Quiz": [
+        {
+            "word": "capiō",
+            "desc": "Singular-1st"
+        },
+        {
+            "word": "capis",
+            "desc": "Singular-2nd"
+        },
+        {
+            "word": "capit",
+            "desc": "Singular-3rd"
+        },
+        {
+            "word": "capimus",
+            "desc": "Plural-1st"
+        },
+        {
+            "word": "capitis",
+            "desc": "Plural-2nd"
+        },
+        {
+            "word": "capiunt",
+            "desc": "Plural-3rd"
+        }
+    ],
+    "Hint":"LAT_V_3",
+    "Base":"capi"
+}

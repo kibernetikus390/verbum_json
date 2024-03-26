@@ -1,0 +1,93 @@
+{
+    "list" : [
+        {
+            "word" : "война",
+            "desc" : "war"
+        },
+        {
+            "word" : "дискуссия",
+            "desc" : "discussion"
+        },
+        {
+            "word" : "закон",
+            "desc" : "law"
+        },
+        {
+            "word" : "государство",
+            "desc" : "state"
+        },
+        {
+            "word" : "экономика",
+            "desc" : "economy"
+        },
+        {
+            "word" : "налоги",
+            "desc" : "taxes"
+        },
+        {
+            "word" : "армия",
+            "desc" : "army"
+        },
+        {
+            "word" : "военные власти",
+            "desc" : "military"
+        },
+        {
+            "word" : "генерал",
+            "desc" : "general"
+        },
+        {
+            "word" : "солдат",
+            "desc" : "soldier"
+        },
+        {
+            "word" : "народ",
+            "desc" : "people (of a nation)"
+        },
+        {
+            "word" : "обещание",
+            "desc" : "promise"
+        },
+        {
+            "word" : "обещать",
+            "desc" : "to promise; to make a promise"
+        },
+        {
+            "word" : "изменить",
+            "desc" : "to change; to cheat"
+        },
+        {
+            "word" : "понизить",
+            "desc" : "to lower"
+        },
+        {
+            "word" : "поднять",
+            "desc" : "to raise"
+        },
+        {
+            "word" : "контролировать",
+            "desc" : "to control"
+        },
+        {
+            "word" : "вечно",
+            "desc" : "always; forever"
+        },
+        {
+            "word" : "война не нужна никогда",
+            "desc" : "war is never necessary"
+        },
+        {
+            "word" : "народ хочет мира",
+            "desc" : "the people want peace"
+        },
+        {
+            "word" : "политики вечно обещают изменить закон",
+            "desc" : "politicians always promise to change the law"
+        },
+        {
+            "word" : "вообще-то политики ничего не контролируют",
+            "desc" : "politicians actually control nothing"
+        }
+    ],
+    "lang" : "RUS"
+}

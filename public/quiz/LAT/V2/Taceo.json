@@ -1,0 +1,30 @@
+{
+    "Quiz": [
+        {
+            "word": "taceō",
+            "desc": "Singular-1st"
+        },
+        {
+            "word": "tacēs",
+            "desc": "Singular-2nd"
+        },
+        {
+            "word": "tacet",
+            "desc": "Singular-3rd"
+        },
+        {
+            "word": "tacēmus",
+            "desc": "Plural-1st"
+        },
+        {
+            "word": "tacētis",
+            "desc": "Plural-2nd"
+        },
+        {
+            "word": "tacent",
+            "desc": "Plural-3rd"
+        }
+    ],
+    "Hint":"LAT_V_2",
+    "Base":"tace"
+}

@@ -1,0 +1,54 @@
+{
+    "Quiz": [
+        {
+            "word": "зда́ние",
+            "desc": "Singular-Nom."
+        },
+        {
+            "word": "зда́ние",
+            "desc": "Singular-Accusative."
+        },
+        {
+            "word": "зда́ния",
+            "desc": "Singular-Genitive."
+        },
+        {
+            "word": "зда́нию",
+            "desc": "Singular-Dative."
+        },
+        {
+            "word": "зда́нием",
+            "desc": "Singular-Instr."
+        },
+        {
+            "word": "зда́нии",
+            "desc": "Singular-Prepos."
+        },
+        {
+            "word": "зда́ния",
+            "desc": "Plural-Nom."
+        },
+        {
+            "word": "зда́ния",
+            "desc": "Plural-Accusative."
+        },
+        {
+            "word": "зда́ний",
+            "desc": "Plural-Genitive."
+        },
+        {
+            "word": "зда́ниям",
+            "desc": "Plural-Dative."
+        },
+        {
+            "word": "зда́ниями",
+            "desc": "Plural-Instr."
+        },
+        {
+            "word": "зда́ниях",
+            "desc": "Plural-Prepos."
+        }
+    ],
+    "Hint":"RUS_N_2_N",
+    "Base":"зда́ни"
+}

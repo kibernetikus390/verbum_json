@@ -1,0 +1,46 @@
+{
+    "Quiz": [
+        {
+            "word": "portus",
+            "desc": "Singular-Nom.Voc."
+        },
+        {
+            "word": "portum",
+            "desc": "Singular-Accusative"
+        },
+        {
+            "word": "portūs",
+            "desc": "Singular-Genitive"
+        },
+        {
+            "word": "portuī",
+            "desc": "Singular-Dative"
+        },
+        {
+            "word": "portū",
+            "desc": "Singular-Ablative"
+        },
+        {
+            "word": "portūs",
+            "desc": "Plural-Nom.Voc."
+        },
+        {
+            "word": "portūs",
+            "desc": "Plural-Accusative"
+        },
+        {
+            "word": "portuum",
+            "desc": "Plural-Genitive"
+        },
+        {
+            "word": "portībus",
+            "desc": "Plural-Dative"
+        },
+        {
+            "word": "portībus",
+            "desc": "Plural-Ablative"
+        }
+    ],
+    "Hint":"LAT_IV",
+    "Base":"port"
+}

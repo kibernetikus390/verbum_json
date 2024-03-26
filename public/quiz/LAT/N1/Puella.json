@@ -1,0 +1,46 @@
+{
+    "Quiz": [
+        {
+            "word": "puella",
+            "desc": "Singular-Nom.Voc."
+        },
+        {
+            "word": "puellam",
+            "desc": "Singular-Accusative"
+        },
+        {
+            "word": "puellae",
+            "desc": "Singular-Genitive"
+        },
+        {
+            "word": "puellae",
+            "desc": "Singular-Dative"
+        },
+        {
+            "word": "puellā",
+            "desc": "Singular-Ablative"
+        },
+        {
+            "word": "puellae",
+            "desc": "Plural-Nom.Voc."
+        },
+        {
+            "word": "puellās",
+            "desc": "Plural-Accusative"
+        },
+        {
+            "word": "puellārum",
+            "desc": "Plural-Genitive"
+        },
+        {
+            "word": "puellīs",
+            "desc": "Plural-Dative"
+        },
+        {
+            "word": "puellīs",
+            "desc": "Plural-Ablative"
+        }
+    ],
+    "Hint":"LAT_I_II",
+    "Base":"puell"
+}

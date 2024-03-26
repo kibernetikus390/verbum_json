@@ -1,0 +1,315 @@
+{
+    "list" : [
+        {
+            "word" : "tā",
+            "desc" : "he; she; it",
+            "alt" : "他；她；它"
+        },
+        {
+            "word" : "nǐ-men",
+            "desc" : "you (plural)",
+            "alt" : "你们"
+        },
+        {
+            "word" : "wǒ-men",
+            "desc" : "we; us",
+            "alt" : "我们"
+        },
+        {
+            "word" : "tā-men",
+            "desc" : "they; them",
+            "alt" : "他们"
+        },
+        {
+            "word" : "rén",
+            "desc" : "person; people",
+            "alt" : "人"
+        },
+        {
+            "word" : "nǐ duō-dà le?",
+            "desc" : "how old are you?",
+            "alt" : "你多大了？"
+        },
+        {
+            "word" : "nǐ cāi",
+            "desc" : "take a guess",
+            "alt" : "你猜"
+        },
+        {
+            "word" : "wǒ èr-shí-liù le",
+            "desc" : "I'm twenty six",
+            "alt" : "我二十六了"
+        },
+        {
+            "word" : "lǎo",
+            "desc" : "old",
+            "alt" : "老"
+        },
+        {
+            "word" : "nián-qīng",
+            "desc" : "young",
+            "alt" : "年轻"
+        },
+        {
+            "word" : "wó lǎo le",
+            "desc" : "I'm old",
+            "alt" : "我老了"
+        },
+        {
+            "word" : "yì-diǎn'r yě bù ...",
+            "desc" : "not ... at all",
+            "alt" : "一点儿也不 ..."
+        },
+        {
+            "word" : "nǐ yì-diǎn'r yě bù lǎo",
+            "desc" : "you are not old at all",
+            "alt" : "你一点儿也不老"
+        },
+        {
+            "word" : "zhè-ge",
+            "desc" : "this one",
+            "alt" : "这个"
+        },
+        {
+            "word" : "nà-ge",
+            "desc" : "that one",
+            "alt" : "那个"
+        },
+        {
+            "word" : "yì-si",
+            "desc" : "meaning",
+            "alt" : "意思"
+        },
+        {
+            "word" : "bù hǎo yì-si",
+            "desc" : "sorry",
+            "alt" : "不好意思"
+        },
+        {
+            "word" : "wǒ bú shì nà-ge yì-si!",
+            "desc" : "that's not what I meant!",
+            "alt" : "我不是那个意思！"
+        },
+        {
+            "word" : "nǐ wù-hui le",
+            "desc" : "you misunderstood",
+            "alt" : "你误会了"
+        },
+        {
+            "word" : "zì",
+            "desc" : "character (writing)",
+            "alt" : "字"
+        },
+        {
+            "word" : "zhè-ge zì shén-me yì-si?",
+            "desc" : "what does this character mean?",
+            "alt" : "这个字什么意思？"
+        },
+        {
+            "word" : "shuō",
+            "desc" : "to speak; to say",
+            "alt" : "说"
+        },
+        {
+            "word" : "huì shuō",
+            "desc" : "can speak",
+            "alt" : "会说"
+        },
+        {
+            "word" : "zhōng-guó",
+            "desc" : "China",
+            "alt" : "中国"
+        },
+        {
+            "word" : "zhōng-wén",
+            "desc" : "Chinese (language)",
+            "alt" : "中文"
+        },
+        {
+            "word" : "wǒ huì shuō zhōng-wén",
+            "desc" : "I can speak Chinese",
+            "alt" : "我会说中文"
+        },
+        {
+            "word" : "jiù yì-diǎn'r",
+            "desc" : "just a little bit",
+            "alt" : "就一点儿"
+        },
+        {
+            "word" : "xué",
+            "desc" : "to learn",
+            "alt" : "学"
+        },
+        {
+            "word" : "duō-jiǔ le?",
+            "desc" : "how long ...?",
+            "alt" : "... 多久了？"
+        },
+        {
+            "word" : "nǐ xué zhōng-wén duō-jiǔ le?",
+            "desc" : "how long have you been learning Chinese?",
+            "alt" : "你学中文多久了？"
+        },
+        {
+            "word" : "liǎng nián le",
+            "desc" : "it's been two years",
+            "alt" : "两年了"
+        },
+        {
+            "word" : "nǐ shuō-de hén hǎo",
+            "desc" : "you speak very well",
+            "alt" : "你说得很好"
+        },
+        {
+            "word" : "wó yě jué-de",
+            "desc" : "I think so too",
+            "alt" : "我也觉得"
+        },
+        {
+            "word" : "guò jiǎng le",
+            "desc" : "I'm flattered",
+            "alt" : "过奖了"
+        },
+        {
+            "word" : "hái còu-he ba",
+            "desc" : "it's just OK",
+            "alt" : "还凑合吧"
+        },
+        {
+            "word" : "nǐ zuò shén-me de?",
+            "desc" : "what do you do?",
+            "alt" : "你做什么的？"
+        },
+        {
+            "word" : "shàng-xué",
+            "desc" : "to study",
+            "alt" : "上学"
+        },
+        {
+            "word" : "gōng-zuò",
+            "desc" : "to work; work",
+            "alt" : "工作"
+        },
+        {
+            "word" : "zhè-me qiǎo",
+            "desc" : "such a coincidence",
+            "alt" : "这么巧"
+        },
+        {
+            "word" : "wó yě shì",
+            "desc" : "me too",
+            "alt" : "我也是"
+        },
+        {
+            "word" : "zhè'r",
+            "desc" : "here",
+            "alt" : "这儿"
+        },
+        {
+            "word" : "nà'r",
+            "desc" : "there",
+            "alt" : "那儿"
+        },
+        {
+            "word" : "nǐ lái zhè'r duō-jiǔ le?",
+            "desc" : "how long have you been here?",
+            "alt" : "你来这儿多久了？"
+        },
+        {
+            "word" : "bú shì hén jiǔ",
+            "desc" : "not very long",
+            "alt" : "不是很久"
+        },
+        {
+            "word" : "wǒ gāng dào zhè'r",
+            "desc" : "I just arrived",
+            "alt" : "我刚到这儿"
+        },
+        {
+            "word" : "nǐ shì nǎ'r rén?",
+            "desc" : "where are you from?",
+            "alt" : "你是哪儿人？"
+        },
+        {
+            "word" : "nǐ shì nǎ guó rén?",
+            "desc" : "which country are you from？",
+            "alt" : "你是哪国人？"
+        },
+        {
+            "word" : "yīng-guó",
+            "desc" : "the UK",
+            "alt" : "英国"
+        },
+        {
+            "word" : "yīng-yǔ",
+            "desc" : "English (language)",
+            "alt" : "英语"
+        },
+        {
+            "word" : "nǐ huì shuō yīng-yǔ ma?",
+            "desc" : "can you speak English?",
+            "alt" : "你会说英语吗？"
+        },
+        {
+            "word" : "wǒ shì yīng-guó rén",
+            "desc" : "I'm British",
+            "alt" : "我是英国人"
+        },
+        {
+            "word" : "nǐ jiào shén-me míng-zi?",
+            "desc" : "what's your name?",
+            "alt" : "你叫什么名字？"
+        },
+        {
+            "word" : "rèn-shi",
+            "desc" : "to know (someone); to recognise",
+            "alt" : "认识"
+        },
+        {
+            "word" : "nǐ-men rèn-shi ma?",
+            "desc" : "do you know each other?",
+            "alt" : "你们认识吗？"
+        },
+        {
+            "word" : "wǒ-men gāng rèn-shi",
+            "desc" : "we just met",
+            "alt" : "我们刚认识"
+        },
+        {
+            "word" : "nǐ-men zěn-me rèn-shi de?",
+            "desc" : "how did you meet?",
+            "alt" : "你们怎么认识的？"
+        },
+        {
+            "word" : "cháng",
+            "desc" : "long",
+            "alt" : "长"
+        },
+        {
+            "word" : "shuō lái huà cháng",
+            "desc" : "long story",
+            "alt" : "说来话长"
+        },
+        {
+            "word" : "zǒng zhī ba!",
+            "desc" : "anyway!",
+            "alt" : "总之吧!"
+        },
+        {
+            "word" : "wǒ-men liáo diǎn‘r bié-de ba",
+            "desc" : "let's talk about something else",
+            "alt" : "我们聊点儿别的吧"
+        },
+        {
+            "word" : "zuò",
+            "desc" : "to sit",
+            "alt" : "坐"
+        },
+        {
+            "word" : "wǒ ké-yǐ zuò zhè'r ma?",
+            "desc" : "can I sit here?",
+            "alt" : "我可以坐这儿吗？"
+        }
+    ],
+    "lang" : "CHINESE"
+}

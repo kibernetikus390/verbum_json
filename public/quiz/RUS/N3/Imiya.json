@@ -1,0 +1,54 @@
+{
+    "Quiz": [
+        {
+            "word": "и́мя",
+            "desc": "Singular-Nom."
+        },
+        {
+            "word": "и́мя",
+            "desc": "Singular-Accusative."
+        },
+        {
+            "word": "и́мени",
+            "desc": "Singular-Genitive."
+        },
+        {
+            "word": "и́мени",
+            "desc": "Singular-Dative."
+        },
+        {
+            "word": "и́менем",
+            "desc": "Singular-Instr."
+        },
+        {
+            "word": "и́мени",
+            "desc": "Singular-Prepos."
+        },
+        {
+            "word": "имена́",
+            "desc": "Plural-Nom."
+        },
+        {
+            "word": "имена",
+            "desc": "Plural-Accusative."
+        },
+        {
+            "word": "имён",
+            "desc": "Plural-Genitive."
+        },
+        {
+            "word": "имена́м",
+            "desc": "Plural-Dative."
+        },
+        {
+            "word": "имена́ми",
+            "desc": "Plural-Instr."
+        },
+        {
+            "word": "имена́х",
+            "desc": "Plural-Prepos."
+        }
+    ],
+    "Hint":"RUS_N_3",
+    "Base":"им"
+}

@@ -1,0 +1,46 @@
+{
+    "Quiz": [
+        {
+            "word": "fructus",
+            "desc": "Singular-Nom.Voc."
+        },
+        {
+            "word": "fructum",
+            "desc": "Singular-Accusative"
+        },
+        {
+            "word": "fructūs",
+            "desc": "Singular-Genitive"
+        },
+        {
+            "word": "fructuī or (fructū)",
+            "desc": "Singular-Dative"
+        },
+        {
+            "word": "fructū",
+            "desc": "Singular-Ablative"
+        },
+        {
+            "word": "fructūs",
+            "desc": "Plural-Nom.Voc."
+        },
+        {
+            "word": "fructūs",
+            "desc": "Plural-Accusative"
+        },
+        {
+            "word": "fructuum",
+            "desc": "Plural-Genitive"
+        },
+        {
+            "word": "fructibus",
+            "desc": "Plural-Dative"
+        },
+        {
+            "word": "fructibus",
+            "desc": "Plural-Ablative"
+        }
+    ],
+    "Hint":"LAT_IV",
+    "Base":"fruct"
+}

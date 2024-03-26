@@ -1,0 +1,29 @@
+{
+    "Quiz": [
+        {
+            "word": "fuissem",
+            "desc": "Sub.PastPerfect.Singular-1st"
+        },
+        {
+            "word": "fuissēs",
+            "desc": "Sub.PastPerfect.Singular-2nd"
+        },
+        {
+            "word": "fuisset",
+            "desc": "Sub.PastPerfect.Singular-3rd"
+        },
+        {
+            "word": "fuissēmus",
+            "desc": "Sub.PastPerfect.Plural-1st"
+        },
+        {
+            "word": "fuissētis",
+            "desc": "Sub.PastPerfect.Plural-2nd"
+        },
+        {
+            "word": "fuissent",
+            "desc": "Sub.PastPerfect.Plural-3rd"
+        }
+    ],
+    "Hint":"LAT_V"
+}

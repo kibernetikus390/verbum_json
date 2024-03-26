@@ -1,0 +1,29 @@
+{
+    "Quiz": [
+        {
+            "word": "dō",
+            "desc": "Singular-1st"
+        },
+        {
+            "word": "dās",
+            "desc": "Singular-2nd"
+        },
+        {
+            "word": "dat",
+            "desc": "Singular-3rd"
+        },
+        {
+            "word": "damus",
+            "desc": "Plural-1st"
+        },
+        {
+            "word": "datis",
+            "desc": "Plural-2nd"
+        },
+        {
+            "word": "dant",
+            "desc": "Plural-3rd"
+        }
+    ],
+    "Hint":"LAT_V"
+}

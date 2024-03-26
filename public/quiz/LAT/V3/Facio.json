@@ -1,0 +1,30 @@
+{
+    "Quiz": [
+        {
+            "word": "faciō",
+            "desc": "Singular-1st"
+        },
+        {
+            "word": "facis",
+            "desc": "Singular-2nd"
+        },
+        {
+            "word": "facit",
+            "desc": "Singular-3rd"
+        },
+        {
+            "word": "facimus",
+            "desc": "Plural-1st"
+        },
+        {
+            "word": "facitis",
+            "desc": "Plural-2nd"
+        },
+        {
+            "word": "faciunt",
+            "desc": "Plural-3rd"
+        }
+    ],
+    "Hint":"LAT_V_3",
+    "Base":"faci"
+}

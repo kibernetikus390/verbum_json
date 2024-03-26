@@ -1,0 +1,30 @@
+{
+    "Quiz": [
+        {
+            "word": "amō",
+            "desc": "Singular-1st"
+        },
+        {
+            "word": "amās",
+            "desc": "Singular-2nd"
+        },
+        {
+            "word": "amat",
+            "desc": "Singular-3rd"
+        },
+        {
+            "word": "amāmus",
+            "desc": "Plural-1st"
+        },
+        {
+            "word": "amātis",
+            "desc": "Plural-2nd"
+        },
+        {
+            "word": "amant",
+            "desc": "Plural-3rd"
+        }
+    ],
+    "Hint":"LAT_V_1",
+    "Base":"am"
+}

@@ -1,0 +1,101 @@
+{
+    "Quiz": [
+        {
+            "word": "си́ний",
+            "desc": "Singular-Masc.-Nom."
+        },
+        {
+            "word": "си́ний or си́него",
+            "desc": "Singular-Masc.-Acc."
+        },
+        {
+            "word": "си́него",
+            "desc": "Singular-Masc.-Gen."
+        },
+        {
+            "word": "си́нему",
+            "desc": "Singular-Masc.-Dat."
+        },
+        {
+            "word": "си́ним",
+            "desc": "Singular-Masc.-Inst."
+        },
+        {
+            "word": "си́нем",
+            "desc": "Singular-Masc.-Pre."
+        },
+        {
+            "word": "си́нее",
+            "desc": "Singular-Neut.-Nom."
+        },
+        {
+            "word": "си́нее",
+            "desc": "Singular-Neut.-Acc."
+        },
+        {
+            "word": "си́него",
+            "desc": "Singular-Neut.-Gen."
+        },
+        {
+            "word": "си́нему",
+            "desc": "Singular-Neut.-Dat."
+        },
+        {
+            "word": "си́ним",
+            "desc": "Singular-Neut.-Inst."
+        },
+        {
+            "word": "си́нем",
+            "desc": "Singular-Neut.-Pre."
+        },
+        {
+            "word": "си́няя",
+            "desc": "Singular-Fem.-Nom."
+        },
+        {
+            "word": "си́нюю",
+            "desc": "Singular-Fem.-Acc."
+        },
+        {
+            "word": "си́ней",
+            "desc": "Singular-Fem.-Gen."
+        },
+        {
+            "word": "си́ней",
+            "desc": "Singular-Fem.-Dat."
+        },
+        {
+            "word": "си́ней",
+            "desc": "Singular-Fem.-Inst."
+        },
+        {
+            "word": "си́ней",
+            "desc": "Singular-Fem.-Pre."
+        },
+        {
+            "word": "си́ние",
+            "desc": "Plural-Nominative"
+        },
+        {
+            "word": "си́ние or си́них",
+            "desc": "Plural-Accusative"
+        },
+        {
+            "word": "си́них",
+            "desc": "Plural-Genitive"
+        },
+        {
+            "word": "си́ним",
+            "desc": "Plural-Dative"
+        },
+        {
+            "word": "си́ними",
+            "desc": "Plural-Instrumental"
+        },
+        {
+            "word": "си́них",
+            "desc": "Plural-Prepositional"
+        }
+    ],
+    "Hint":"RUS_A"
+}

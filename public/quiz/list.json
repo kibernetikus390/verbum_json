@@ -1,0 +1,394 @@
+[
+    {
+        "legion": "Latin1",
+        "contents": [
+            {
+                "category": "Noun I (-ae)",
+                "contents": [
+                    {
+                        "filename": "LAT-N1-Puella",
+                        "desc": "puella f.<br>(a girl)"
+                    }
+                ]
+            },
+            {
+                "category": "Noun II (-ī)",
+                "contents": [
+                    {
+                        "filename": "LAT-N2-Amicus",
+                        "desc": "amicus m.<br>(a friend)"
+                    },
+                    {
+                        "filename": "LAT-N2-Verbum",
+                        "desc": "verbum n.<br>(a word)"
+                    }
+                ]
+            },
+            {
+                "category": "Noun II (-ī) exception",
+                "contents": [
+                    {
+                        "filename": "LAT-N2-Puer",
+                        "desc": "puer m.<br>(a boy)"
+                    },
+                    {
+                        "filename": "LAT-N2-Ager",
+                        "desc": "ager m.<br>(a farm)"
+                    },
+                    {
+                        "filename": "LAT-N2-Deus",
+                        "desc": "deus m.<br>(god)"
+                    }
+                ]
+            },
+            {
+                "category": "Noun III(-is)",
+                "contents": [
+                    {
+                        "filename": "LAT-N3-Homo",
+                        "desc": "homō c.<br>(a human 子幹)"
+                    },
+                    {
+                        "filename": "LAT-N3-Genus",
+                        "desc": "genus n.<br>(a sort 子幹)"
+                    },
+                    {
+                        "filename": "LAT-N3-Ignis",
+                        "desc": "ignis m.<br>(a fire i幹)"
+                    },
+                    {
+                        "filename": "LAT-N3-Animal",
+                        "desc": "animal n.<br>(a animal i幹)"
+                    }
+                ]
+            },
+            {
+                "category": "Noun IV(-ūs)",
+                "contents": [
+                    {
+                        "filename": "LAT-N4-Fructus",
+                        "desc": "fructus m.<br>(a fruit)"
+                    },
+                    {
+                        "filename": "LAT-N4-Portus",
+                        "desc": "portus m.<br>(a harbor)"
+                    },
+                    {
+                        "filename": "LAT-N4-Cornu",
+                        "desc": "nornū n.<br>(a horn)"
+                    }
+                ]
+            },
+            {
+                "category": "Noun V(-eī)",
+                "contents": [
+                    {
+                        "filename": "LAT-N5-Res",
+                        "desc": "rēs f.<br>(a thing)"
+                    },
+                    {
+                        "filename": "LAT-N5-Dies",
+                        "desc": "diēs m.<br>(a sun)"
+                    }
+                ]
+            },
+            {
+                "category": "Adj I II (-ae -ī)",
+                "contents": [
+                    {
+                        "filename": "LAT-A12-Bonus",
+                        "desc": "bonus -a -um<br>(good)"
+                    },
+                    {
+                        "filename": "LAT-A12-Liber",
+                        "desc": "liber -era -erum<br>(free)"
+                    },
+                    {
+                        "filename": "LAT-A12-Niger",
+                        "desc": "niger -gra -grum<br>(black)"
+                    }
+                ]
+            },
+            {
+                "category": "Adj III",
+                "contents": [
+                    {
+                        "filename": "LAT-A3-Sapiens",
+                        "desc": "sapiens, -entis<br>(clever)"
+                    },
+                    {
+                        "filename": "LAT-A3-Omnis",
+                        "desc": "omnis, -e<br>(whole)"
+                    },
+                    {
+                        "filename": "LAT-A3-Acer",
+                        "desc": "acer, -cris, -cre<br>(sharp)"
+                    },
+                    {
+                        "filename": "LAT-A3-Vetus",
+                        "desc": "vetus, -eris<br>(old)"
+                    }
+                ]
+            },
+            {
+                "category": "Verb",
+                "contents": [
+                    {
+                        "filename": "LAT-V-Do",
+                        "desc": "dō dare<br>(to give)"
+                    },
+                    {
+                        "filename": "LAT-V-Sum",
+                        "desc": "sum esse<br>(to be)"
+                    },
+                    {
+                        "filename": "LAT-V-Sum^past",
+                        "desc": "sum esse<br>(Ind.Imperfect)"
+                    },
+                    {
+                        "filename": "LAT-V-Sum^future",
+                        "desc": "sum esse<br>(Ind.Future)"
+                    },
+                    {
+                        "filename": "LAT-V-Sum^perfect",
+                        "desc": "sum esse<br>(Ind.Perfect)"
+                    },
+                    {
+                        "filename": "LAT-V-Sum^pastperfect",
+                        "desc": "sum esse<br>(Ind.PastPerfect)"
+                    },
+                    {
+                        "filename": "LAT-V-Sum^futureperfect",
+                        "desc": "sum esse<br>(Ind.FuturePerfect)"
+                    },
+                    {
+                        "filename": "LAT-V-Sum^SUB^pre",
+                        "desc": "sum esse<br>(Sub.Present)"
+                    },
+                    {
+                        "filename": "LAT-V-Sum^SUB^past",
+                        "desc": "sum esse<br>(Sub.Past)"
+                    },
+                    {
+                        "filename": "LAT-V-Sum^SUB^perfect",
+                        "desc": "sum esse<br>(Sub.Perfect)"
+                    },
+                    {
+                        "filename": "LAT-V-Sum^SUB^pastperfect",
+                        "desc": "sum esse<br>(Sub.PastPerfect)"
+                    }
+                ]
+            },
+            {
+                "category": "Verb I (-āre)",
+                "contents": [
+                    {
+                        "filename": "LAT-V1-Amo",
+                        "desc": "amō -āre<br>(to love)"
+                    }
+                ]
+            },
+            {
+                "category": "Verb II (-̄ere)",
+                "contents": [
+                    {
+                        "filename": "LAT-V2-Video",
+                        "desc": "videō -ēre<br>(to see)"
+                    },
+                    {
+                        "filename": "LAT-V2-Lateo",
+                        "desc": "lateō -̄ere<br>(to hide)"
+                    },
+                    {
+                        "filename": "LAT-V2-Maneo",
+                        "desc": "maneō -̄ere<br>(to stay)"
+                    },
+                    {
+                        "filename": "LAT-V2-Taceo",
+                        "desc": "taceō -̄ere<br>(to silent)"
+                    }
+                ]
+            },
+            {
+                "category": "Verb III(-ere)",
+                "contents": [
+                    {
+                        "filename": "LAT-V3-Ago",
+                        "desc": "agō -ere<br>(to do)"
+                    },
+                    {
+                        "filename": "LAT-V3-Dico",
+                        "desc": "dīcō -ere<br>(to say)"
+                    },
+                    {
+                        "filename": "LAT-V3-Disco",
+                        "desc": "discō -ere<br>(to learn)"
+                    },
+                    {
+                        "filename": "LAT-V3-Vivo",
+                        "desc": "vīvō -ere<br>(to live)"
+                    },
+                    {
+                        "filename": "LAT-V3-Capio",
+                        "desc": "capiō -ere(B)<br>(to catch)"
+                    },
+                    {
+                        "filename": "LAT-V3-Cupio",
+                        "desc": "cupiō -ere(B)<br>(to want)"
+                    },
+                    {
+                        "filename": "LAT-V3-Facio",
+                        "desc": "faciō -ere(B)<br>(to do)"
+                    },
+                    {
+                        "filename": "LAT-V3-Fugio",
+                        "desc": "fugiō -ere(B)<br>(to flee)"
+                    }
+                ]
+            },
+            {
+                "category": "Verb IV(-īre)",
+                "contents": [
+                    {
+                        "filename": "LAT-V4-Audio",
+                        "desc": "audiō -īre<br>(to listen)"
+                    },
+                    {
+                        "filename": "LAT-V4-Scio",
+                        "desc": "sciō -īre<br>(to know)"
+                    },
+                    {
+                        "filename": "LAT-V4-Sentio",
+                        "desc": "sentiō -īre<br>(to sence)"
+                    },
+                    {
+                        "filename": "LAT-V4-Venio",
+                        "desc": "veniō -īre<br>(to come)"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "legion": "Russian",
+        "contents": [
+            {
+                "category": "Noun I (F)",
+                "contents": [
+                    {
+                        "filename": "RUS-N1-Rabota",
+                        "desc": "работа<br>(a job) "
+                    },
+                    {
+                        "filename": "RUS-N1-Banya",
+                        "desc": "баня<br>(a bathhouse)"
+                    },
+                    {
+                        "filename": "RUS-N1-Kniga",
+                        "desc": "книга<br>(a book)"
+                    },
+                    {
+                        "filename": "RUS-N1-Liniya",
+                        "desc": "линия<br>(a line)"
+                    }
+                ]
+            },
+            {
+                "category": "Noun II (M)",
+                "contents": [
+                    {
+                        "filename": "RUS-N2-Filim",
+                        "desc": "фильм<br>(film)"
+                    },
+                    {
+                        "filename": "RUS-N2-Pisatiel",
+                        "desc": "писатель<br>(writer) "
+                    },
+                    {
+                        "filename": "RUS-N2-Geroi",
+                        "desc": "герой<br>(Hero)"
+                    },
+                    {
+                        "filename": "RUS-N2-Kommentarii",
+                        "desc": "комментарий<br>(a Comment)"
+                    }
+                ]
+            },
+            {
+                "category": "Noun III",
+                "contents": [
+                    {
+                        "filename": "RUS-N3-Kost",
+                        "desc": "кость<br>(a bone)"
+                    },
+                    {
+                        "filename": "RUS-N3-Muish",
+                        "desc": "мышь<br>(a mouse)"
+                    },
+                    {
+                        "filename": "RUS-N3-Imiya",
+                        "desc": "имя<br>(a name)"
+                    }
+                ]
+            },
+            {
+                "category": "Adjective",
+                "contents": [
+                    {
+                        "filename": "RUS-A-Novii",
+                        "desc": "новый<br>(new)"
+                    },
+                    {
+                        "filename": "RUS-A-Sinii",
+                        "desc": "синий<br>(blue)"
+                    }
+                ]
+            },
+            {
+                "category": "Pronouns",
+                "contents": [
+                    {
+                        "filename": "RUS-Pro-Personal",
+                        "desc": "Personal"
+                    },
+                    {
+                        "filename": "RUS-Pro-This",
+                        "desc": "этот<br>This"
+                    },
+                    {
+                        "filename": "RUS-Pro-That",
+                        "desc": "тот<br>That"
+                    },
+                    {
+                        "filename": "RUS-Pro-My",
+                        "desc": "мой<br>my"
+                    },
+                    {
+                        "filename": "RUS-Pro-YourSing",
+                        "desc": "твой<br>your(Sing.)"
+                    },
+                    {
+                        "filename": "RUS-Pro-Ones",
+                        "desc": "свой<br>one's"
+                    },
+                    {
+                        "filename": "RUS-Pro-Our",
+                        "desc": "наш<br>our"
+                    },
+                    {
+                        "filename": "RUS-Pro-YourPlu",
+                        "desc": "ваш<br>your(Plu.)"
+                    },
+                    {
+                        "filename": "RUS-Pro-WhoWhat",
+                        "desc": "кто,что<br>Who,What"
+                    },
+                    {
+                        "filename": "RUS-Pro-Whose",
+                        "desc": "чей<br>Whose"
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+{
+    "Quiz": [
+        {
+            "word": "ager",
+            "desc": "Singular-Nom.Voc."
+        },
+        {
+            "word": "agrum",
+            "desc": "Singular-Accusative"
+        },
+        {
+            "word": "agrī",
+            "desc": "Singular-Genitive"
+        },
+        {
+            "word": "agrō",
+            "desc": "Singular-Dative"
+        },
+        {
+            "word": "agrō",
+            "desc": "Singular-Ablative"
+        },
+        {
+            "word": "agrī",
+            "desc": "Plural-Nom.Voc."
+        },
+        {
+            "word": "agrōs",
+            "desc": "Plural-Accusative"
+        },
+        {
+            "word": "agrōrum",
+            "desc": "Plural-Genitive"
+        },
+        {
+            "word": "agrīs",
+            "desc": "Plural-Dative"
+        },
+        {
+            "word": "agrīs",
+            "desc": "Plural-Ablative"
+        }
+    ],
+    "Hint":"LAT_I_II",
+    "Base":"ag"
+}

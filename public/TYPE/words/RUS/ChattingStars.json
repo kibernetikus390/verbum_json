@@ -1,0 +1,61 @@
+{
+    "list" : [
+        {
+            "word" : "команда",
+            "desc" : "team"
+        },
+        {
+            "word" : "игрок",
+            "desc" : "player"
+        },
+        {
+            "word" : "менеджер",
+            "desc" : "manager"
+        },
+        {
+            "word" : "стадион",
+            "desc" : "stadium"
+        },
+        {
+            "word" : "век",
+            "desc" : "century"
+        },
+        {
+            "word" : "матч",
+            "desc" : "match"
+        },
+        {
+            "word" : "кубок мира",
+            "desc" : "world cup"
+        },
+        {
+            "word" : "гол",
+            "desc" : "goal (sports)"
+        },
+        {
+            "word" : "самый большой",
+            "desc" : "biggest"
+        },
+        {
+            "word" : "игрок матча",
+            "desc" : "man of the match"
+        },
+        {
+            "word" : "стать",
+            "desc" : "to get; to become"
+        },
+        {
+            "word" : "талантливый",
+            "desc" : "talented"
+        },
+        {
+            "word" : "развлекательный",
+            "desc" : "entertaining"
+        },
+        {
+            "word" : "популярный",
+            "desc" : "popular"
+        }
+    ],
+    "lang" : "RUS"
+}

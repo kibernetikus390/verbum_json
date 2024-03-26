@@ -1,0 +1,101 @@
+{
+    "Quiz": [
+        {
+            "word": "но́вый",
+            "desc": "Singular-Masc.-Nom."
+        },
+        {
+            "word": "но́вый or н́ового",
+            "desc": "Singular-Masc.-Acc."
+        },
+        {
+            "word": "но́вого",
+            "desc": "Singular-Masc.-Gen."
+        },
+        {
+            "word": "но́вому",
+            "desc": "Singular-Masc.-Dat."
+        },
+        {
+            "word": "но́вым",
+            "desc": "Singular-Masc.-Inst."
+        },
+        {
+            "word": "но́вом",
+            "desc": "Singular-Masc.-Pre."
+        },
+        {
+            "word": "но́вое",
+            "desc": "Singular-Neut.-Nom."
+        },
+        {
+            "word": "но́вое",
+            "desc": "Singular-Neut.-Acc."
+        },
+        {
+            "word": "но́вого",
+            "desc": "Singular-Neut.-Gen."
+        },
+        {
+            "word": "но́вому",
+            "desc": "Singular-Neut.-Dat."
+        },
+        {
+            "word": "но́вым",
+            "desc": "Singular-Neut.-Inst."
+        },
+        {
+            "word": "но́вом",
+            "desc": "Singular-Neut.-Pre."
+        },
+        {
+            "word": "но́вая",
+            "desc": "Singular-Fem.-Nom."
+        },
+        {
+            "word": "но́вую",
+            "desc": "Singular-Fem.-Acc."
+        },
+        {
+            "word": "но́вой",
+            "desc": "Singular-Fem.-Gen."
+        },
+        {
+            "word": "но́вой",
+            "desc": "Singular-Fem.-Dat."
+        },
+        {
+            "word": "но́вой",
+            "desc": "Singular-Fem.-Inst."
+        },
+        {
+            "word": "но́вой",
+            "desc": "Singular-Fem.-Pre."
+        },
+        {
+            "word": "но́вые",
+            "desc": "Plural-Nominative"
+        },
+        {
+            "word": "но́вые or но́вых",
+            "desc": "Plural-Accusative"
+        },
+        {
+            "word": "но́вых",
+            "desc": "Plural-Genitive"
+        },
+        {
+            "word": "но́вым",
+            "desc": "Plural-Dative"
+        },
+        {
+            "word": "но́выми",
+            "desc": "Plural-Instrumental"
+        },
+        {
+            "word": "но́вых",
+            "desc": "Plural-Prepositional"
+        }
+    ],
+    "Hint":"RUS_A"
+}
