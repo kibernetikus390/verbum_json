@@ -55,6 +55,9 @@ app.get("*", function(req,res){	　　            //*は全ての要求をキャ
     res.send("Nothing to see here.");
 });
 // サーバーを開始
-app.listen(8080, "localhost", function(){
-    console.log("server has started:" + "0.0.0.0");
+// app.listen(8080, "localhost", function(){
+//     console.log("server has started:" + "0.0.0.0");
+// });
+app.listen(process.env.PORT, process.env.IP, function(){
+    console.log("server has started");
 });
